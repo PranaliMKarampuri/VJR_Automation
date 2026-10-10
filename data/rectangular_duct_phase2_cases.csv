@@ -1,0 +1,4 @@
+Width,Height,Length,MetalCode,Type,Installation,Units,Accessory1,Accessory2,Accessory3,Accessory4,Accessory5,Accessory6
+250,400,10,6,BP,HA,M,T-VANES,Canevas,Fire damper,Fire smoke damper,Gravity damper,Mesh
+500,1200,8,61,MP,HA,M,T-VANES,MBD,11,111,,
+200,300,3,6,HP,RI,M,Manual balancing damper,,,

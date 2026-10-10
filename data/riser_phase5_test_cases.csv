@@ -1,0 +1,7 @@
+RiserID,Floor,System,Width,Height,Length,LengthUnit,MetalCode,Type,Units,Diameter,DiameterUnit,Accessory1,Accessory2,Accessory3,Accessory4,Accessory5
+RECT-001,Level 1,RECTANGULAR,300,200,4.5,M,6,BP,M,,,,,,,
+RECT-001,Level 2,RECTANGULAR,300,200,4.5,M,6,BP,M,,,,,,,
+RECT-002,Level 2,RECTANGULAR,500,300,2,M,6,BP,M,,,7,8,10,100,12
+SPIRAL-001,Level 1,SPIRAL,,,15,FT,,,,8,IN,,,,,
+SPIRAL-001,Roof,SPIRAL,,,15,FT,,,,8,IN,,,,,
+SPIRAL-002,Level 3,SPIRAL,,,12,FT,,,,8,IN,,,,,

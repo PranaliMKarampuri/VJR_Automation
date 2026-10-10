@@ -1,0 +1,8 @@
+Category,DiameterIn,Quantity,FlexType,FlexBlock
+ROUND,6,20,,
+ROUND,6,5,,
+ROUND,8,35,,
+FLEX,10,4,Acoustique standard,FG
+FLEX,10,2,Acoustique standard,FG
+FLEX,8,3,Isolé standard,JK
+FLEX,8,1,Isolé standard,JK

@@ -1,0 +1,38 @@
+{
+  "baseline": "Stage 1 CSV-to-VJR baseline",
+  "created": "2026-10-05",
+  "archive": "baselines\\stage1_baseline_2026-10-05.zip",
+  "archive_sha256": "f609c94d6702c484efe5cec9d7467742912ff58e6e57d0c31d59e33bef5ff462",
+  "archived_files": {
+    "manual_csv_to_vjr.py": "6f4d97bbb6cf0e9d5488e3b39387ddfe052948a6aed9b344d1e54cd0036b51ac",
+    "manual_to_vjr.py": "56e598c35b81b08e664dec9c20036fc61c6c5c8dca4452a118a88745378ffcc3",
+    "manual_to_vjr_dry_run.py": "1ae5f6cd12fca896f3b94198171438bc8c773ceb4a74448dd7f9c71531368d56",
+    "rectangular_duct_takeoff.py": "469b05fcb7570a78c000c10d93d8a37998162c5f1771c87f67d2b773785f8d15",
+    "vjr_ppt_rules.py": "659d2e936450a9ce9b9d6e9883b8f0243d3754cbb7b62e68522420c1b7d49eb2",
+    "tests/test_manual_csv_pipeline.py": "67765a5bc0dc79eec47eca54f744ca361096557fa97148d1170a2fe94ac317df",
+    "tests/test_manual_to_vjr.py": "9efacf6436476e6a0fcea4d0c8695378fa0acc4768044fc773150288654a7d0b",
+    "tests/test_manual_to_vjr_dry_run.py": "c83e2089050a693efd08cb192cab0c7b9f909da41edf6d9dbdf3439f4cd44af2",
+    "tests/test_rectangular_duct_rules.py": "f7c78a9890ed9ba024a2806fb435c4164855d1d1e4f819b9b768eb17cd11eab4",
+    "tests/test_riser_phase5.py": "3675a74c18e73544715c204b0eda9633006fa607d9368d20399fb04f0a053cc6",
+    "tests/test_spiral_damper_phase6a.py": "9199a06fc3f695d82571729443ec6eeb12ed0d66a6ff0c5e9037f46a61d37036",
+    "tests/test_vjr_phase1_5_pipeline.py": "24ee0a85518e54e3ec93d38492dec8663220fb296d5bcc2b7849bb7536a0923b",
+    "tests/test_vjr_phase1_6a_pipeline.py": "f1dc8ab48dd9a241df2b3b391a420dc88d41e4962ed0f17b51d427c80cef86ce",
+    "tests/test_vjr_ppt_rules.py": "c80a414904dfd590e610688fbb69b519761ec3b5cb07e30de4350bd1f1c6de3f",
+    "test_input/stage1_second_project_sample.csv": "93a8eacd081813bb5e7c6e191bd99a04902bb92457e83ee943f15a024eab92f8",
+    "docs/stage1_user_workflow.md": "e96627a3e17074b1648c8c344b03807a7e4bcbf8a0ad07f07a2cb90e96aa9fc1",
+    "output/TAKEOFF_CS_KATIVIK_VJR.xlsx": "ebb01efa7d50750a1235d05552af3047a813df4ccfd2d2b72b8f9fc4ccfacbbd",
+    "output/TAKEOFF_CS_KATIVIK_VJR_validation_report.md": "f2e99a9375636f6dbd38fde627e662c326b955dc6126bb4f67dee12a350558fb",
+    "output/TAKEOFF_CS_KATIVIK_record_audit.csv": "45e5bf3e38c72a9eae6f7066eaaa5599186bc0a1edc903cae7b94b15a12ab1ee",
+    "output/TAKEOFF_CS_KATIVIK_unresolved.csv": "7f75d62ba1eb080dc615f1dae93ac1d56d6f52da77ea63a6ce013b02bce18031",
+    "output/TAKEOFF_CS_KATIVIK_reference_comparison.csv": "49c522204cb9115ce8187d0711acbf9c5cdcd7b1c9426aeedf15e4645c428cf8",
+    "output/stage1_second_project_sample_VJR.xlsx": "5e5523b43f230c29ee1b0cd5f7f4010fca92eb9c9452f930c8da2fe082a3f35b",
+    "output/stage1_second_project_sample_VJR_validation_report.md": "e89a4294eafb1073009318150b2c460d57c2180f922f2b59edae1b37dbbaa0d7",
+    "output/stage1_second_project_sample_record_audit.csv": "201144fad14ad7304c79b68412655a7c366bc22a80d73128a479fbe174c9d6bc",
+    "output/stage1_second_project_sample_unresolved.csv": "ef8c49e8a9b76964587db40e289c1250cfe318a21dbaa72296efa8673a1cf16a",
+    "reports/final_stage1_accuracy_report.md": "e1869f01519c415f09c4d23fec1092c8d33de59133a25fb7a430879ac2774dd2"
+  },
+  "external_input_hashes": {
+    "source_files/Ventilation Jean Roy excel.xlsx": "a6775a49eb639efd3e3d34805ee2091dd5305cbd839a2ceccb8aa1c053cdcea8",
+    "output/TAKEOFF_CS_KATIVIK.csv": "342fbaf5d6dfd44c3f2c20a195a4679156f66adf83de4f3bd525f0752857c66e"
+  }
+}
