@@ -1,0 +1,320 @@
+﻿csv_row,category,field_status,field,reason,source_sheet,source_row
+77,damper,UNSUPPORTED,,Damper type 'BDD' has no exact PPT code/destination mapping.,DATA,77
+78,damper,UNSUPPORTED,,Damper type 'BDD' has no exact PPT code/destination mapping.,DATA,78
+79,damper,UNSUPPORTED,,Damper type 'BDD' has no exact PPT code/destination mapping.,DATA,79
+80,damper,UNSUPPORTED,,Damper type 'BDD' has no exact PPT code/destination mapping.,DATA,80
+83,canvas,NEEDS_REVIEW,,No unique rectangular group matches this accessory by same Unit and size.,DATA,83
+85,canvas,NEEDS_REVIEW,,No unique rectangular group matches this accessory by same Unit and size.,DATA,85
+86,canvas,NEEDS_REVIEW,,No unique rectangular group matches this accessory by same Unit and size.,DATA,86
+90,canvas,NEEDS_REVIEW,,No unique rectangular group matches this accessory by same Unit and size.,DATA,90
+92,canvas,NEEDS_REVIEW,,Accessory record lacks a rectangular size and an explicit duct-type/diameter route.,DATA,92
+93,canvas,NEEDS_REVIEW,,No unique rectangular group matches this accessory by same Unit and size.,DATA,93
+94,canvas,NEEDS_REVIEW,,No unique rectangular group matches this accessory by same Unit and size.,DATA,94
+98,canvas,NEEDS_REVIEW,,No unique rectangular group matches this accessory by same Unit and size.,DATA,98
+99,canvas,NEEDS_REVIEW,,No unique rectangular group matches this accessory by same Unit and size.,DATA,99
+101,canvas,NEEDS_REVIEW,,No unique rectangular group matches this accessory by same Unit and size.,DATA,101
+102,damper,NEEDS_REVIEW,,Accessory record lacks a rectangular size and an explicit duct-type/diameter route.,DATA,102
+103,flex,NEEDS_REVIEW,,Manual does not identify the acoustic/insulated/equipment flex product needed to select F:G or J:K.,DATA,103
+104,flex,NEEDS_REVIEW,,Manual does not identify the acoustic/insulated/equipment flex product needed to select F:G or J:K.,DATA,104
+105,flex,NEEDS_REVIEW,,Manual does not identify the acoustic/insulated/equipment flex product needed to select F:G or J:K.,DATA,105
+106,flex,NEEDS_REVIEW,,Manual does not identify the acoustic/insulated/equipment flex product needed to select F:G or J:K.,DATA,106
+107,flex,NEEDS_REVIEW,,Manual does not identify the acoustic/insulated/equipment flex product needed to select F:G or J:K.,DATA,107
+108,flex,NEEDS_REVIEW,,Manual does not identify the acoustic/insulated/equipment flex product needed to select F:G or J:K.,DATA,108
+109,flex,NEEDS_REVIEW,,Manual does not identify the acoustic/insulated/equipment flex product needed to select F:G or J:K.,DATA,109
+110,flex,NEEDS_REVIEW,,Manual does not identify the acoustic/insulated/equipment flex product needed to select F:G or J:K.,DATA,110
+111,flex,NEEDS_REVIEW,,Manual does not identify the acoustic/insulated/equipment flex product needed to select F:G or J:K.,DATA,111
+112,flex,NEEDS_REVIEW,,Manual does not identify the acoustic/insulated/equipment flex product needed to select F:G or J:K.,DATA,112
+113,flex,NEEDS_REVIEW,,Manual does not identify the acoustic/insulated/equipment flex product needed to select F:G or J:K.,DATA,113
+114,flex,NEEDS_REVIEW,,Manual does not identify the acoustic/insulated/equipment flex product needed to select F:G or J:K.,DATA,114
+115,flex,NEEDS_REVIEW,,Manual does not identify the acoustic/insulated/equipment flex product needed to select F:G or J:K.,DATA,115
+116,flex,NEEDS_REVIEW,,Manual does not identify the acoustic/insulated/equipment flex product needed to select F:G or J:K.,DATA,116
+117,flex,NEEDS_REVIEW,,Manual does not identify the acoustic/insulated/equipment flex product needed to select F:G or J:K.,DATA,117
+118,flex,NEEDS_REVIEW,,Manual does not identify the acoustic/insulated/equipment flex product needed to select F:G or J:K.,DATA,118
+119,flex,NEEDS_REVIEW,,Manual does not identify the acoustic/insulated/equipment flex product needed to select F:G or J:K.,DATA,119
+120,flex,NEEDS_REVIEW,,Manual does not identify the acoustic/insulated/equipment flex product needed to select F:G or J:K.,DATA,120
+121,flex,NEEDS_REVIEW,,Manual does not identify the acoustic/insulated/equipment flex product needed to select F:G or J:K.,DATA,121
+122,flex,NEEDS_REVIEW,,Manual does not identify the acoustic/insulated/equipment flex product needed to select F:G or J:K.,DATA,122
+123,flex,NEEDS_REVIEW,,Manual does not identify the acoustic/insulated/equipment flex product needed to select F:G or J:K.,DATA,123
+124,flex,NEEDS_REVIEW,,Manual does not identify the acoustic/insulated/equipment flex product needed to select F:G or J:K.,DATA,124
+125,flex,NEEDS_REVIEW,,Manual does not identify the acoustic/insulated/equipment flex product needed to select F:G or J:K.,DATA,125
+126,flex,NEEDS_REVIEW,,Manual does not identify the acoustic/insulated/equipment flex product needed to select F:G or J:K.,DATA,126
+127,flex,NEEDS_REVIEW,,Manual does not identify the acoustic/insulated/equipment flex product needed to select F:G or J:K.,DATA,127
+128,flex,NEEDS_REVIEW,,Manual does not identify the acoustic/insulated/equipment flex product needed to select F:G or J:K.,DATA,128
+129,flex,NEEDS_REVIEW,,Manual does not identify the acoustic/insulated/equipment flex product needed to select F:G or J:K.,DATA,129
+130,flex,NEEDS_REVIEW,,Manual does not identify the acoustic/insulated/equipment flex product needed to select F:G or J:K.,DATA,130
+131,flex,NEEDS_REVIEW,,Manual does not identify the acoustic/insulated/equipment flex product needed to select F:G or J:K.,DATA,131
+132,flex,NEEDS_REVIEW,,Manual does not identify the acoustic/insulated/equipment flex product needed to select F:G or J:K.,DATA,132
+133,flex,NEEDS_REVIEW,,Manual does not identify the acoustic/insulated/equipment flex product needed to select F:G or J:K.,DATA,133
+134,flex,NEEDS_REVIEW,,Manual does not identify the acoustic/insulated/equipment flex product needed to select F:G or J:K.,DATA,134
+135,flex,NEEDS_REVIEW,,Manual does not identify the acoustic/insulated/equipment flex product needed to select F:G or J:K.,DATA,135
+136,flex,NEEDS_REVIEW,,Manual does not identify the acoustic/insulated/equipment flex product needed to select F:G or J:K.,DATA,136
+137,flex,NEEDS_REVIEW,,Manual does not identify the acoustic/insulated/equipment flex product needed to select F:G or J:K.,DATA,137
+138,flex,NEEDS_REVIEW,,Manual does not identify the acoustic/insulated/equipment flex product needed to select F:G or J:K.,DATA,138
+139,flex,NEEDS_REVIEW,,Manual does not identify the acoustic/insulated/equipment flex product needed to select F:G or J:K.,DATA,139
+140,flex,NEEDS_REVIEW,,Manual does not identify the acoustic/insulated/equipment flex product needed to select F:G or J:K.,DATA,140
+141,flex,NEEDS_REVIEW,,Manual does not identify the acoustic/insulated/equipment flex product needed to select F:G or J:K.,DATA,141
+142,flex,NEEDS_REVIEW,,Manual does not identify the acoustic/insulated/equipment flex product needed to select F:G or J:K.,DATA,142
+143,flex,NEEDS_REVIEW,,Manual does not identify the acoustic/insulated/equipment flex product needed to select F:G or J:K.,DATA,143
+144,damper,NEEDS_REVIEW,,No unique rectangular group matches this accessory by same Unit and size.,DATA,144
+146,damper,NEEDS_REVIEW,,No unique rectangular group matches this accessory by same Unit and size.,DATA,146
+150,damper,NEEDS_REVIEW,,No unique rectangular group matches this accessory by same Unit and size.,DATA,150
+152,damper,NEEDS_REVIEW,,No unique rectangular group matches this accessory by same Unit and size.,DATA,152
+155,damper,NEEDS_REVIEW,,No unique rectangular group matches this accessory by same Unit and size.,DATA,155
+156,damper,NEEDS_REVIEW,,No unique rectangular group matches this accessory by same Unit and size.,DATA,156
+157,damper,NEEDS_REVIEW,,No unique rectangular group matches this accessory by same Unit and size.,DATA,157
+158,damper,UNSUPPORTED,,Damper type 'RCFU' has no exact PPT code/destination mapping.,DATA,158
+159,damper,UNSUPPORTED,,Damper type 'RCFU' has no exact PPT code/destination mapping.,DATA,159
+160,damper,UNSUPPORTED,,Damper type 'RCFU' has no exact PPT code/destination mapping.,DATA,160
+161,damper,UNSUPPORTED,,Damper type 'RCFU' has no exact PPT code/destination mapping.,DATA,161
+162,damper,UNSUPPORTED,,Damper type 'RCFU' has no exact PPT code/destination mapping.,DATA,162
+163,rectangular,NEEDS_REVIEW,,Pressure class is absent from Manual scope/type/remarks.,DATA,163
+164,rectangular,NEEDS_REVIEW,,Pressure class is absent from Manual scope/type/remarks.,DATA,164
+165,rectangular,NEEDS_REVIEW,,Pressure class is absent from Manual scope/type/remarks.,DATA,165
+166,rectangular,NEEDS_REVIEW,,Pressure class is absent from Manual scope/type/remarks.,DATA,166
+167,rectangular,NEEDS_REVIEW,,Pressure class is absent from Manual scope/type/remarks.,DATA,167
+168,rectangular,NEEDS_REVIEW,,Pressure class is absent from Manual scope/type/remarks.,DATA,168
+169,rectangular,NEEDS_REVIEW,,Pressure class is absent from Manual scope/type/remarks.,DATA,169
+170,rectangular,NEEDS_REVIEW,,Pressure class is absent from Manual scope/type/remarks.,DATA,170
+171,rectangular,NEEDS_REVIEW,,Pressure class is absent from Manual scope/type/remarks.,DATA,171
+172,rectangular,NEEDS_REVIEW,,Pressure class is absent from Manual scope/type/remarks.,DATA,172
+173,rectangular,NEEDS_REVIEW,,Pressure class is absent from Manual scope/type/remarks.,DATA,173
+174,rectangular,NEEDS_REVIEW,,Pressure class is absent from Manual scope/type/remarks.,DATA,174
+175,rectangular,NEEDS_REVIEW,,Pressure class is absent from Manual scope/type/remarks.,DATA,175
+176,rectangular,NEEDS_REVIEW,,Pressure class is absent from Manual scope/type/remarks.,DATA,176
+177,rectangular,NEEDS_REVIEW,,Pressure class is absent from Manual scope/type/remarks.,DATA,177
+178,rectangular,NEEDS_REVIEW,,Pressure class is absent from Manual scope/type/remarks.,DATA,178
+179,rectangular,NEEDS_REVIEW,,Pressure class is absent from Manual scope/type/remarks.,DATA,179
+180,rectangular,NEEDS_REVIEW,,Pressure class is absent from Manual scope/type/remarks.,DATA,180
+181,rectangular,NEEDS_REVIEW,,Pressure class is absent from Manual scope/type/remarks.,DATA,181
+182,rectangular,NEEDS_REVIEW,,Pressure class is absent from Manual scope/type/remarks.,DATA,182
+183,rectangular,NEEDS_REVIEW,,Pressure class is absent from Manual scope/type/remarks.,DATA,183
+184,rectangular,NEEDS_REVIEW,,Pressure class is absent from Manual scope/type/remarks.,DATA,184
+185,rectangular,NEEDS_REVIEW,,Pressure class is absent from Manual scope/type/remarks.,DATA,185
+186,rectangular,NEEDS_REVIEW,,Pressure class is absent from Manual scope/type/remarks.,DATA,186
+187,rectangular,NEEDS_REVIEW,,Pressure class is absent from Manual scope/type/remarks.,DATA,187
+188,rectangular,NEEDS_REVIEW,,Pressure class is absent from Manual scope/type/remarks.,DATA,188
+189,rectangular,NEEDS_REVIEW,,Pressure class is absent from Manual scope/type/remarks.,DATA,189
+190,rectangular,NEEDS_REVIEW,,Pressure class is absent from Manual scope/type/remarks.,DATA,190
+191,rectangular,NEEDS_REVIEW,,Pressure class is absent from Manual scope/type/remarks.,DATA,191
+192,rectangular,NEEDS_REVIEW,,Pressure class is absent from Manual scope/type/remarks.,DATA,192
+193,rectangular,NEEDS_REVIEW,,Pressure class is absent from Manual scope/type/remarks.,DATA,193
+194,rectangular,NEEDS_REVIEW,,Pressure class is absent from Manual scope/type/remarks.,DATA,194
+195,rectangular,NEEDS_REVIEW,,Pressure class is absent from Manual scope/type/remarks.,DATA,195
+196,rectangular,NEEDS_REVIEW,,Pressure class is absent from Manual scope/type/remarks.,DATA,196
+197,rectangular,NEEDS_REVIEW,,Pressure class is absent from Manual scope/type/remarks.,DATA,197
+198,rectangular,NEEDS_REVIEW,,Pressure class is absent from Manual scope/type/remarks.,DATA,198
+199,rectangular,NEEDS_REVIEW,,Pressure class is absent from Manual scope/type/remarks.,DATA,199
+200,rectangular,NEEDS_REVIEW,,Pressure class is absent from Manual scope/type/remarks.,DATA,200
+201,rectangular,NEEDS_REVIEW,,Pressure class is absent from Manual scope/type/remarks.,DATA,201
+202,rectangular,NEEDS_REVIEW,,Pressure class is absent from Manual scope/type/remarks.,DATA,202
+203,rectangular,NEEDS_REVIEW,,Pressure class is absent from Manual scope/type/remarks.,DATA,203
+209,rectangular,NEEDS_REVIEW,,Pressure class is absent from Manual scope/type/remarks.,DATA,209
+210,rectangular,NEEDS_REVIEW,,Pressure class is absent from Manual scope/type/remarks.,DATA,210
+211,rectangular,NEEDS_REVIEW,,Pressure class is absent from Manual scope/type/remarks.,DATA,211
+212,rectangular,NEEDS_REVIEW,,Pressure class is absent from Manual scope/type/remarks.,DATA,212
+213,rectangular,NEEDS_REVIEW,,Pressure class is absent from Manual scope/type/remarks.,DATA,213
+214,rectangular,NEEDS_REVIEW,,Pressure class is absent from Manual scope/type/remarks.,DATA,214
+215,rectangular,NEEDS_REVIEW,,Pressure class is absent from Manual scope/type/remarks.,DATA,215
+216,rectangular,NEEDS_REVIEW,,Pressure class is absent from Manual scope/type/remarks.,DATA,216
+217,rectangular,NEEDS_REVIEW,,Pressure class is absent from Manual scope/type/remarks.,DATA,217
+218,rectangular,NEEDS_REVIEW,,Pressure class is absent from Manual scope/type/remarks.,DATA,218
+219,rectangular,NEEDS_REVIEW,,Pressure class is absent from Manual scope/type/remarks.,DATA,219
+220,rectangular,NEEDS_REVIEW,,Pressure class is absent from Manual scope/type/remarks.,DATA,220
+221,rectangular,NEEDS_REVIEW,,Pressure class is absent from Manual scope/type/remarks.,DATA,221
+222,rectangular,NEEDS_REVIEW,,Pressure class is absent from Manual scope/type/remarks.,DATA,222
+223,rectangular,NEEDS_REVIEW,,Pressure class is absent from Manual scope/type/remarks.,DATA,223
+224,rectangular,NEEDS_REVIEW,,Pressure class is absent from Manual scope/type/remarks.,DATA,224
+225,rectangular,NEEDS_REVIEW,,Pressure class is absent from Manual scope/type/remarks.,DATA,225
+226,rectangular,NEEDS_REVIEW,,Pressure class is absent from Manual scope/type/remarks.,DATA,226
+227,rectangular,NEEDS_REVIEW,,Pressure class is absent from Manual scope/type/remarks.,DATA,227
+228,rectangular,NEEDS_REVIEW,,Pressure class is absent from Manual scope/type/remarks.,DATA,228
+229,rectangular,NEEDS_REVIEW,,Pressure class is absent from Manual scope/type/remarks.,DATA,229
+230,rectangular,NEEDS_REVIEW,,Pressure class is absent from Manual scope/type/remarks.,DATA,230
+231,rectangular,NEEDS_REVIEW,,Pressure class is absent from Manual scope/type/remarks.,DATA,231
+232,rectangular,NEEDS_REVIEW,,Pressure class is absent from Manual scope/type/remarks.,DATA,232
+233,rectangular,NEEDS_REVIEW,,Pressure class is absent from Manual scope/type/remarks.,DATA,233
+234,rectangular,NEEDS_REVIEW,,Pressure class is absent from Manual scope/type/remarks.,DATA,234
+235,rectangular,NEEDS_REVIEW,,Pressure class is absent from Manual scope/type/remarks.,DATA,235
+236,rectangular,NEEDS_REVIEW,,Pressure class is absent from Manual scope/type/remarks.,DATA,236
+237,rectangular,NEEDS_REVIEW,,Pressure class is absent from Manual scope/type/remarks.,DATA,237
+238,rectangular,NEEDS_REVIEW,,Pressure class is absent from Manual scope/type/remarks.,DATA,238
+239,rectangular,NEEDS_REVIEW,,Pressure class is absent from Manual scope/type/remarks.,DATA,239
+240,rectangular,NEEDS_REVIEW,,Pressure class is absent from Manual scope/type/remarks.,DATA,240
+241,rectangular,NEEDS_REVIEW,,Pressure class is absent from Manual scope/type/remarks.,DATA,241
+242,rectangular,NEEDS_REVIEW,,Pressure class is absent from Manual scope/type/remarks.,DATA,242
+243,rectangular,NEEDS_REVIEW,,Pressure class is absent from Manual scope/type/remarks.,DATA,243
+244,rectangular,NEEDS_REVIEW,,Pressure class is absent from Manual scope/type/remarks.,DATA,244
+245,rectangular,NEEDS_REVIEW,,Pressure class is absent from Manual scope/type/remarks.,DATA,245
+246,rectangular,NEEDS_REVIEW,,Pressure class is absent from Manual scope/type/remarks.,DATA,246
+247,rectangular,NEEDS_REVIEW,,Pressure class is absent from Manual scope/type/remarks.,DATA,247
+248,rectangular,NEEDS_REVIEW,,Pressure class is absent from Manual scope/type/remarks.,DATA,248
+249,rectangular,NEEDS_REVIEW,,Pressure class is absent from Manual scope/type/remarks.,DATA,249
+250,rectangular,NEEDS_REVIEW,,Pressure class is absent from Manual scope/type/remarks.,DATA,250
+253,rectangular,NEEDS_REVIEW,,Pressure class is absent from Manual scope/type/remarks.,DATA,253
+257,rectangular,NEEDS_REVIEW,,Pressure class is absent from Manual scope/type/remarks.,DATA,257
+259,rectangular,NEEDS_REVIEW,,Pressure class is absent from Manual scope/type/remarks.,DATA,259
+260,rectangular,NEEDS_REVIEW,,Pressure class is absent from Manual scope/type/remarks.,DATA,260
+261,rectangular,NEEDS_REVIEW,,Pressure class is absent from Manual scope/type/remarks.,DATA,261
+262,rectangular,NEEDS_REVIEW,,Pressure class is absent from Manual scope/type/remarks.,DATA,262
+263,rectangular,NEEDS_REVIEW,,Pressure class is absent from Manual scope/type/remarks.,DATA,263
+264,rectangular,NEEDS_REVIEW,,Pressure class is absent from Manual scope/type/remarks.,DATA,264
+265,rectangular,NEEDS_REVIEW,,Pressure class is absent from Manual scope/type/remarks.,DATA,265
+266,rectangular,NEEDS_REVIEW,,Pressure class is absent from Manual scope/type/remarks.,DATA,266
+267,rectangular,NEEDS_REVIEW,,Pressure class is absent from Manual scope/type/remarks.,DATA,267
+274,rectangular,NEEDS_REVIEW,,Pressure class is absent from Manual scope/type/remarks.,DATA,274
+275,rectangular,NEEDS_REVIEW,,Pressure class is absent from Manual scope/type/remarks.,DATA,275
+279,rectangular,NEEDS_REVIEW,,Pressure class is absent from Manual scope/type/remarks.,DATA,279
+283,rectangular,NEEDS_REVIEW,,Pressure class is absent from Manual scope/type/remarks.,DATA,283
+286,rectangular,NEEDS_REVIEW,,Pressure class is absent from Manual scope/type/remarks.,DATA,286
+288,rectangular,NEEDS_REVIEW,,Pressure class is absent from Manual scope/type/remarks.,DATA,288
+289,rectangular,NEEDS_REVIEW,,Pressure class is absent from Manual scope/type/remarks.,DATA,289
+290,rectangular,NEEDS_REVIEW,,Pressure class is absent from Manual scope/type/remarks.,DATA,290
+291,rectangular,NEEDS_REVIEW,,Pressure class is absent from Manual scope/type/remarks.,DATA,291
+292,rectangular,NEEDS_REVIEW,,Pressure class is absent from Manual scope/type/remarks.,DATA,292
+293,rectangular,NEEDS_REVIEW,,Pressure class is absent from Manual scope/type/remarks.,DATA,293
+294,rectangular,NEEDS_REVIEW,,Pressure class is absent from Manual scope/type/remarks.,DATA,294
+295,rectangular,NEEDS_REVIEW,,Pressure class is absent from Manual scope/type/remarks.,DATA,295
+298,rectangular,NEEDS_REVIEW,,Pressure class is absent from Manual scope/type/remarks.,DATA,298
+299,rectangular,NEEDS_REVIEW,,Pressure class is absent from Manual scope/type/remarks.,DATA,299
+300,rectangular,NEEDS_REVIEW,,Pressure class is absent from Manual scope/type/remarks.,DATA,300
+301,rectangular,NEEDS_REVIEW,,Pressure class is absent from Manual scope/type/remarks.,DATA,301
+302,rectangular,NEEDS_REVIEW,,Pressure class is absent from Manual scope/type/remarks.,DATA,302
+304,rectangular,NEEDS_REVIEW,,Pressure class is absent from Manual scope/type/remarks.,DATA,304
+305,rectangular,NEEDS_REVIEW,,Pressure class is absent from Manual scope/type/remarks.,DATA,305
+307,rectangular,NEEDS_REVIEW,,Pressure class is absent from Manual scope/type/remarks.,DATA,307
+308,rectangular,NEEDS_REVIEW,,Pressure class is absent from Manual scope/type/remarks.,DATA,308
+310,rectangular,NEEDS_REVIEW,,Pressure class is absent from Manual scope/type/remarks.,DATA,310
+313,rectangular,NEEDS_REVIEW,,Pressure class is absent from Manual scope/type/remarks.,DATA,313
+314,rectangular,NEEDS_REVIEW,,Pressure class is absent from Manual scope/type/remarks.,DATA,314
+315,rectangular,NEEDS_REVIEW,,Pressure class is absent from Manual scope/type/remarks.,DATA,315
+316,rectangular,NEEDS_REVIEW,,Pressure class is absent from Manual scope/type/remarks.,DATA,316
+317,rectangular,NEEDS_REVIEW,,Pressure class is absent from Manual scope/type/remarks.,DATA,317
+318,rectangular,NEEDS_REVIEW,,Pressure class is absent from Manual scope/type/remarks.,DATA,318
+319,rectangular,NEEDS_REVIEW,,Pressure class is absent from Manual scope/type/remarks.,DATA,319
+320,rectangular,NEEDS_REVIEW,,Pressure class is absent from Manual scope/type/remarks.,DATA,320
+321,rectangular,NEEDS_REVIEW,,Pressure class is absent from Manual scope/type/remarks.,DATA,321
+322,rectangular,NEEDS_REVIEW,,Pressure class is absent from Manual scope/type/remarks.,DATA,322
+323,rectangular,NEEDS_REVIEW,,Pressure class is absent from Manual scope/type/remarks.,DATA,323
+324,rectangular,NEEDS_REVIEW,,Pressure class is absent from Manual scope/type/remarks.,DATA,324
+325,rectangular,NEEDS_REVIEW,,Pressure class is absent from Manual scope/type/remarks.,DATA,325
+326,rectangular,NEEDS_REVIEW,,Pressure class is absent from Manual scope/type/remarks.,DATA,326
+327,rectangular,NEEDS_REVIEW,,Pressure class is absent from Manual scope/type/remarks.,DATA,327
+328,rectangular,NEEDS_REVIEW,,Pressure class is absent from Manual scope/type/remarks.,DATA,328
+329,rectangular,NEEDS_REVIEW,,Pressure class is absent from Manual scope/type/remarks.,DATA,329
+330,rectangular,NEEDS_REVIEW,,Pressure class is absent from Manual scope/type/remarks.,DATA,330
+331,rectangular,NEEDS_REVIEW,,Pressure class is absent from Manual scope/type/remarks.,DATA,331
+333,rectangular,NEEDS_REVIEW,,Pressure class is absent from Manual scope/type/remarks.,DATA,333
+334,rectangular,NEEDS_REVIEW,,Pressure class is absent from Manual scope/type/remarks.,DATA,334
+337,rectangular,NEEDS_REVIEW,,Pressure class is absent from Manual scope/type/remarks.,DATA,337
+338,rectangular,NEEDS_REVIEW,,Pressure class is absent from Manual scope/type/remarks.,DATA,338
+339,rectangular,NEEDS_REVIEW,,Pressure class is absent from Manual scope/type/remarks.,DATA,339
+343,rectangular,NEEDS_REVIEW,,Pressure class is absent from Manual scope/type/remarks.,DATA,343
+344,rectangular,NEEDS_REVIEW,,Pressure class is absent from Manual scope/type/remarks.,DATA,344
+349,rectangular,NEEDS_REVIEW,,Pressure class is absent from Manual scope/type/remarks.,DATA,349
+350,rectangular,NEEDS_REVIEW,,Pressure class is absent from Manual scope/type/remarks.,DATA,350
+351,rectangular,NEEDS_REVIEW,,Pressure class is absent from Manual scope/type/remarks.,DATA,351
+352,rectangular,NEEDS_REVIEW,,Pressure class is absent from Manual scope/type/remarks.,DATA,352
+353,rectangular,NEEDS_REVIEW,,Pressure class is absent from Manual scope/type/remarks.,DATA,353
+354,rectangular,NEEDS_REVIEW,,Pressure class is absent from Manual scope/type/remarks.,DATA,354
+355,rectangular,NEEDS_REVIEW,,Pressure class is absent from Manual scope/type/remarks.,DATA,355
+356,rectangular,NEEDS_REVIEW,,Pressure class is absent from Manual scope/type/remarks.,DATA,356
+357,rectangular,NEEDS_REVIEW,,Pressure class is absent from Manual scope/type/remarks.,DATA,357
+358,rectangular,NEEDS_REVIEW,,Pressure class is absent from Manual scope/type/remarks.,DATA,358
+359,rectangular,NEEDS_REVIEW,,Pressure class is absent from Manual scope/type/remarks.,DATA,359
+360,rectangular,NEEDS_REVIEW,,Pressure class is absent from Manual scope/type/remarks.,DATA,360
+361,rectangular,NEEDS_REVIEW,,Pressure class is absent from Manual scope/type/remarks.,DATA,361
+362,rectangular,NEEDS_REVIEW,,Pressure class is absent from Manual scope/type/remarks.,DATA,362
+363,rectangular,NEEDS_REVIEW,,Pressure class is absent from Manual scope/type/remarks.,DATA,363
+364,rectangular,NEEDS_REVIEW,,Pressure class is absent from Manual scope/type/remarks.,DATA,364
+365,rectangular,NEEDS_REVIEW,,Pressure class is absent from Manual scope/type/remarks.,DATA,365
+366,damper,UNSUPPORTED,,Damper type 'RFCU' has no exact PPT code/destination mapping.,DATA,366
+367,damper,UNSUPPORTED,,Damper type 'RFCU' has no exact PPT code/destination mapping.,DATA,367
+368,damper,UNSUPPORTED,,Damper type 'RFCU' has no exact PPT code/destination mapping.,DATA,368
+369,damper,UNSUPPORTED,,Damper type 'RFCU' has no exact PPT code/destination mapping.,DATA,369
+370,damper,UNSUPPORTED,,Damper type 'RFCU' has no exact PPT code/destination mapping.,DATA,370
+371,damper,UNSUPPORTED,,Damper type 'RFCU' has no exact PPT code/destination mapping.,DATA,371
+372,damper,UNSUPPORTED,,Damper type 'RFCU' has no exact PPT code/destination mapping.,DATA,372
+373,damper,UNSUPPORTED,,Damper type 'RFCU' has no exact PPT code/destination mapping.,DATA,373
+374,damper,UNSUPPORTED,,Damper type 'RFCU' has no exact PPT code/destination mapping.,DATA,374
+375,damper,UNSUPPORTED,,Damper type 'RFCU' has no exact PPT code/destination mapping.,DATA,375
+377,riser,NEEDS_REVIEW,,Riser size is available but project drop length is missing or nonpositive.,DATA,377
+378,riser,NEEDS_REVIEW,,Riser size is available but project drop length is missing or nonpositive.,DATA,378
+379,riser,NEEDS_REVIEW,,Riser size is available but project drop length is missing or nonpositive.,DATA,379
+380,riser,NEEDS_REVIEW,,Riser size is available but project drop length is missing or nonpositive.,DATA,380
+381,riser,NEEDS_REVIEW,,Riser size is available but project drop length is missing or nonpositive.,DATA,381
+382,riser,NEEDS_REVIEW,,Riser size is available but project drop length is missing or nonpositive.,DATA,382
+383,riser,NEEDS_REVIEW,,Riser size is available but project drop length is missing or nonpositive.,DATA,383
+384,riser,NEEDS_REVIEW,,Riser size is available but project drop length is missing or nonpositive.,DATA,384
+385,riser,NEEDS_REVIEW,,Riser size is available but project drop length is missing or nonpositive.,DATA,385
+386,riser,NEEDS_REVIEW,,Riser size is available but project drop length is missing or nonpositive.,DATA,386
+387,riser,NEEDS_REVIEW,,Riser size is available but project drop length is missing or nonpositive.,DATA,387
+388,riser,NEEDS_REVIEW,,Riser size is available but project drop length is missing or nonpositive.,DATA,388
+389,riser,NEEDS_REVIEW,,Riser size is available but project drop length is missing or nonpositive.,DATA,389
+390,riser,NEEDS_REVIEW,,Riser size is available but project drop length is missing or nonpositive.,DATA,390
+391,riser,NEEDS_REVIEW,,Riser size is available but project drop length is missing or nonpositive.,DATA,391
+392,riser,NEEDS_REVIEW,,Riser size is available but project drop length is missing or nonpositive.,DATA,392
+393,riser,NEEDS_REVIEW,,Riser size is available but project drop length is missing or nonpositive.,DATA,393
+394,riser,NEEDS_REVIEW,,Riser size is available but project drop length is missing or nonpositive.,DATA,394
+395,riser,NEEDS_REVIEW,,Riser size is available but project drop length is missing or nonpositive.,DATA,395
+396,riser,NEEDS_REVIEW,,Riser size is available but project drop length is missing or nonpositive.,DATA,396
+397,riser,NEEDS_REVIEW,,Riser size is available but project drop length is missing or nonpositive.,DATA,397
+398,damper,NEEDS_REVIEW,,No unique rectangular group matches this accessory by same Unit and size.,DATA,398
+399,damper,NEEDS_REVIEW,,No unique rectangular group matches this accessory by same Unit and size.,DATA,399
+400,damper,NEEDS_REVIEW,,No unique rectangular group matches this accessory by same Unit and size.,DATA,400
+522,T-vane,NEEDS_REVIEW,,No unique rectangular group matches this accessory by same Unit and size.,DATA,522
+526,T-vane,NEEDS_REVIEW,,No unique rectangular group matches this accessory by same Unit and size.,DATA,526
+527,T-vane,NEEDS_REVIEW,,No unique rectangular group matches this accessory by same Unit and size.,DATA,527
+528,T-vane,NEEDS_REVIEW,,No unique rectangular group matches this accessory by same Unit and size.,DATA,528
+530,T-vane,NEEDS_REVIEW,,No unique rectangular group matches this accessory by same Unit and size.,DATA,530
+534,T-vane,NEEDS_REVIEW,,No unique rectangular group matches this accessory by same Unit and size.,DATA,534
+536,T-vane,NEEDS_REVIEW,,No unique rectangular group matches this accessory by same Unit and size.,DATA,536
+541,T-vane,NEEDS_REVIEW,,No unique rectangular group matches this accessory by same Unit and size.,DATA,541
+549,T-vane,NEEDS_REVIEW,,No unique rectangular group matches this accessory by same Unit and size.,DATA,549
+550,T-vane,NEEDS_REVIEW,,No unique rectangular group matches this accessory by same Unit and size.,DATA,550
+551,T-vane,NEEDS_REVIEW,,No unique rectangular group matches this accessory by same Unit and size.,DATA,551
+552,T-vane,NEEDS_REVIEW,,No unique rectangular group matches this accessory by same Unit and size.,DATA,552
+553,T-vane,NEEDS_REVIEW,,No unique rectangular group matches this accessory by same Unit and size.,DATA,553
+554,T-vane,NEEDS_REVIEW,,No unique rectangular group matches this accessory by same Unit and size.,DATA,554
+557,T-vane,NEEDS_REVIEW,,No unique rectangular group matches this accessory by same Unit and size.,DATA,557
+560,T-vane,NEEDS_REVIEW,,No unique rectangular group matches this accessory by same Unit and size.,DATA,560
+562,T-vane,NEEDS_REVIEW,,No unique rectangular group matches this accessory by same Unit and size.,DATA,562
+563,T-vane,NEEDS_REVIEW,,No unique rectangular group matches this accessory by same Unit and size.,DATA,563
+565,T-vane,NEEDS_REVIEW,,No unique rectangular group matches this accessory by same Unit and size.,DATA,565
+566,T-vane,NEEDS_REVIEW,,No unique rectangular group matches this accessory by same Unit and size.,DATA,566
+567,T-vane,NEEDS_REVIEW,,No unique rectangular group matches this accessory by same Unit and size.,DATA,567
+568,T-vane,NEEDS_REVIEW,,No unique rectangular group matches this accessory by same Unit and size.,DATA,568
+571,T-vane,NEEDS_REVIEW,,No unique rectangular group matches this accessory by same Unit and size.,DATA,571
+573,T-vane,NEEDS_REVIEW,,No unique rectangular group matches this accessory by same Unit and size.,DATA,573
+576,T-vane,NEEDS_REVIEW,,No unique rectangular group matches this accessory by same Unit and size.,DATA,576
+577,T-vane,NEEDS_REVIEW,,No unique rectangular group matches this accessory by same Unit and size.,DATA,577
+581,T-vane,NEEDS_REVIEW,,No unique rectangular group matches this accessory by same Unit and size.,DATA,581
+583,T-vane,NEEDS_REVIEW,,No unique rectangular group matches this accessory by same Unit and size.,DATA,583
+585,T-vane,NEEDS_REVIEW,,No unique rectangular group matches this accessory by same Unit and size.,DATA,585
+587,T-vane,NEEDS_REVIEW,,No unique rectangular group matches this accessory by same Unit and size.,DATA,587
+588,T-vane,NEEDS_REVIEW,,No unique rectangular group matches this accessory by same Unit and size.,DATA,588
+590,T-vane,NEEDS_REVIEW,,No unique rectangular group matches this accessory by same Unit and size.,DATA,590
+594,T-vane,NEEDS_REVIEW,,No unique rectangular group matches this accessory by same Unit and size.,DATA,594
+595,T-vane,NEEDS_REVIEW,,No unique rectangular group matches this accessory by same Unit and size.,DATA,595
+596,T-vane,NEEDS_REVIEW,,No unique rectangular group matches this accessory by same Unit and size.,DATA,596
+635,damper,NEEDS_REVIEW,,No unique rectangular group matches this accessory by same Unit and size.,DATA,635
+636,damper,NEEDS_REVIEW,,No unique rectangular group matches this accessory by same Unit and size.,DATA,636
+637,damper,NEEDS_REVIEW,,Accessory record lacks a rectangular size and an explicit duct-type/diameter route.,DATA,637
+638,damper,NEEDS_REVIEW,,No unique rectangular group matches this accessory by same Unit and size.,DATA,638
+640,damper,NEEDS_REVIEW,,No unique rectangular group matches this accessory by same Unit and size.,DATA,640
+641,damper,NEEDS_REVIEW,,No unique rectangular group matches this accessory by same Unit and size.,DATA,641
+644,damper,NEEDS_REVIEW,,No unique rectangular group matches this accessory by same Unit and size.,DATA,644
+647,damper,NEEDS_REVIEW,,No unique rectangular group matches this accessory by same Unit and size.,DATA,647
+648,damper,NEEDS_REVIEW,,No unique rectangular group matches this accessory by same Unit and size.,DATA,648
+649,damper,NEEDS_REVIEW,,Accessory record lacks a rectangular size and an explicit duct-type/diameter route.,DATA,649
+650,vent cap,UNSUPPORTED,,No established VJR destination for Manual category 'vent cap'.,DATA,650
+651,vent cap,UNSUPPORTED,,No established VJR destination for Manual category 'vent cap'.,DATA,651
+652,vent cap,UNSUPPORTED,,No established VJR destination for Manual category 'vent cap'.,DATA,652
+653,vent cap,UNSUPPORTED,,No established VJR destination for Manual category 'vent cap'.,DATA,653
+654,vent cap,UNSUPPORTED,,No established VJR destination for Manual category 'vent cap'.,DATA,654
+655,mesh,NEEDS_REVIEW,,No unique rectangular group matches this accessory by same Unit and size.,DATA,655
+657,mesh,NEEDS_REVIEW,,Accessory record lacks a rectangular size and an explicit duct-type/diameter route.,DATA,657
+658,mesh,NEEDS_REVIEW,,Accessory record lacks a rectangular size and an explicit duct-type/diameter route.,DATA,658
+659,mesh,NEEDS_REVIEW,,Accessory record lacks a rectangular size and an explicit duct-type/diameter route.,DATA,659
+660,mesh,NEEDS_REVIEW,,Accessory record lacks a rectangular size and an explicit duct-type/diameter route.,DATA,660
+661,mesh,NEEDS_REVIEW,,Accessory record lacks a rectangular size and an explicit duct-type/diameter route.,DATA,661
+662,mesh,NEEDS_REVIEW,,Accessory record lacks a rectangular size and an explicit duct-type/diameter route.,DATA,662

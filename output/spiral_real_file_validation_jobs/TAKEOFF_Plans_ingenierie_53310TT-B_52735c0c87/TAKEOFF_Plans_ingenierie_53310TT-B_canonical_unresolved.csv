@@ -1,0 +1,85 @@
+﻿csv_row,category,field_status,field,reason,source_sheet,source_row
+7,unsupported,UNSUPPORTED,,No established VJR destination for Manual category 'unsupported'.,DATA,7
+9,unsupported,UNSUPPORTED,,No established VJR destination for Manual category 'unsupported'.,DATA,9
+10,unsupported,UNSUPPORTED,,No established VJR destination for Manual category 'unsupported'.,DATA,10
+20,unsupported,UNSUPPORTED,,No established VJR destination for Manual category 'unsupported'.,DATA,20
+25,riser,NEEDS_REVIEW,,Riser size is available but project drop length is missing or nonpositive.,DATA,25
+29,flex,NEEDS_REVIEW,,Manual does not identify the acoustic/insulated/equipment flex product needed to select F:G or J:K.,DATA,29
+30,riser,NEEDS_REVIEW,,Riser size is available but project drop length is missing or nonpositive.,DATA,30
+31,flex,NEEDS_REVIEW,,Manual does not identify the acoustic/insulated/equipment flex product needed to select F:G or J:K.,DATA,31
+33,unsupported,UNSUPPORTED,,No established VJR destination for Manual category 'unsupported'.,DATA,33
+39,flex,NEEDS_REVIEW,,Manual does not identify the acoustic/insulated/equipment flex product needed to select F:G or J:K.,DATA,39
+43,unsupported,UNSUPPORTED,,No established VJR destination for Manual category 'unsupported'.,DATA,43
+53,flex,NEEDS_REVIEW,,Manual does not identify the acoustic/insulated/equipment flex product needed to select F:G or J:K.,DATA,53
+58,flex,NEEDS_REVIEW,,Manual does not identify the acoustic/insulated/equipment flex product needed to select F:G or J:K.,DATA,58
+60,flex,NEEDS_REVIEW,,Manual does not identify the acoustic/insulated/equipment flex product needed to select F:G or J:K.,DATA,60
+62,flex,NEEDS_REVIEW,,Manual does not identify the acoustic/insulated/equipment flex product needed to select F:G or J:K.,DATA,62
+69,unsupported,UNSUPPORTED,,No established VJR destination for Manual category 'unsupported'.,DATA,69
+71,unsupported,UNSUPPORTED,,No established VJR destination for Manual category 'unsupported'.,DATA,71
+75,flex,NEEDS_REVIEW,,Manual does not identify the acoustic/insulated/equipment flex product needed to select F:G or J:K.,DATA,75
+80,riser,NEEDS_REVIEW,,Riser size is available but project drop length is missing or nonpositive.,DATA,80
+82,riser,NEEDS_REVIEW,,Riser size is available but project drop length is missing or nonpositive.,DATA,82
+83,flex,NEEDS_REVIEW,,Manual does not identify the acoustic/insulated/equipment flex product needed to select F:G or J:K.,DATA,83
+86,flex,NEEDS_REVIEW,,Manual does not identify the acoustic/insulated/equipment flex product needed to select F:G or J:K.,DATA,86
+87,unsupported,UNSUPPORTED,,No established VJR destination for Manual category 'unsupported'.,DATA,87
+88,unsupported,UNSUPPORTED,,No established VJR destination for Manual category 'unsupported'.,DATA,88
+89,unsupported,UNSUPPORTED,,No established VJR destination for Manual category 'unsupported'.,DATA,89
+90,damper,NEEDS_REVIEW,,Accessory record lacks a rectangular size and an explicit duct-type/diameter route.,DATA,90
+92,unsupported,UNSUPPORTED,,No established VJR destination for Manual category 'unsupported'.,DATA,92
+97,canvas,NEEDS_REVIEW,,No unique rectangular group matches this accessory by same Unit and size.,DATA,97
+118,rectangular,NEEDS_REVIEW,,accessories1: Accessory description 'w/ 1” ACOUSTICAL LINING' has no explicit rectangular mapping in the working notes,TAKEOFF-DUCTS,62
+232,rectangular,NEEDS_REVIEW,,accessories1: Accessory description 'w/ 1” ACOUSTICAL LINING' has no explicit rectangular mapping in the working notes,TAKEOFF-DUCTS,63
+260,rectangular,NEEDS_REVIEW,D (Metal Code),Source workbook does not specify rectangular duct material; VJR Metal Code D was left blank.,TAKEOFF-DUCTS,2
+103,rectangular,NEEDS_REVIEW,D (Metal Code),Source workbook does not specify rectangular duct material; VJR Metal Code D was left blank.,TAKEOFF-DUCTS,3
+278,rectangular,NEEDS_REVIEW,D (Metal Code),Source workbook does not specify rectangular duct material; VJR Metal Code D was left blank.,TAKEOFF-DUCTS,4
+125,rectangular,NEEDS_REVIEW,D (Metal Code),Source workbook does not specify rectangular duct material; VJR Metal Code D was left blank.,TAKEOFF-DUCTS,5
+156,rectangular,NEEDS_REVIEW,D (Metal Code),Source workbook does not specify rectangular duct material; VJR Metal Code D was left blank.,TAKEOFF-DUCTS,6
+256,rectangular,NEEDS_REVIEW,D (Metal Code),Source workbook does not specify rectangular duct material; VJR Metal Code D was left blank.,TAKEOFF-DUCTS,7
+102,rectangular,NEEDS_REVIEW,D (Metal Code),Source workbook does not specify rectangular duct material; VJR Metal Code D was left blank.,TAKEOFF-DUCTS,8
+157,rectangular,NEEDS_REVIEW,D (Metal Code),Source workbook does not specify rectangular duct material; VJR Metal Code D was left blank.,TAKEOFF-DUCTS,9
+202,rectangular,NEEDS_REVIEW,D (Metal Code),Source workbook does not specify rectangular duct material; VJR Metal Code D was left blank.,TAKEOFF-DUCTS,10
+211,rectangular,NEEDS_REVIEW,D (Metal Code),Source workbook does not specify rectangular duct material; VJR Metal Code D was left blank.,TAKEOFF-DUCTS,11
+190,rectangular,NEEDS_REVIEW,D (Metal Code),Source workbook does not specify rectangular duct material; VJR Metal Code D was left blank.,TAKEOFF-DUCTS,12
+168,rectangular,NEEDS_REVIEW,D (Metal Code),Source workbook does not specify rectangular duct material; VJR Metal Code D was left blank.,TAKEOFF-DUCTS,13
+169,rectangular,NEEDS_REVIEW,D (Metal Code),Source workbook does not specify rectangular duct material; VJR Metal Code D was left blank.,TAKEOFF-DUCTS,14
+216,rectangular,NEEDS_REVIEW,D (Metal Code),Source workbook does not specify rectangular duct material; VJR Metal Code D was left blank.,TAKEOFF-DUCTS,15
+215,rectangular,NEEDS_REVIEW,D (Metal Code),Source workbook does not specify rectangular duct material; VJR Metal Code D was left blank.,TAKEOFF-DUCTS,16
+277,rectangular,NEEDS_REVIEW,D (Metal Code),Source workbook does not specify rectangular duct material; VJR Metal Code D was left blank.,TAKEOFF-DUCTS,17
+221,rectangular,NEEDS_REVIEW,D (Metal Code),Source workbook does not specify rectangular duct material; VJR Metal Code D was left blank.,TAKEOFF-DUCTS,18
+279,rectangular,NEEDS_REVIEW,D (Metal Code),Source workbook does not specify rectangular duct material; VJR Metal Code D was left blank.,TAKEOFF-DUCTS,19
+259,rectangular,NEEDS_REVIEW,D (Metal Code),Source workbook does not specify rectangular duct material; VJR Metal Code D was left blank.,TAKEOFF-DUCTS,27
+240,rectangular,NEEDS_REVIEW,D (Metal Code),Source workbook does not specify rectangular duct material; VJR Metal Code D was left blank.,TAKEOFF-DUCTS,28
+239,rectangular,NEEDS_REVIEW,D (Metal Code),Source workbook does not specify rectangular duct material; VJR Metal Code D was left blank.,TAKEOFF-DUCTS,29
+238,rectangular,NEEDS_REVIEW,D (Metal Code),Source workbook does not specify rectangular duct material; VJR Metal Code D was left blank.,TAKEOFF-DUCTS,30
+237,rectangular,NEEDS_REVIEW,D (Metal Code),Source workbook does not specify rectangular duct material; VJR Metal Code D was left blank.,TAKEOFF-DUCTS,31
+287,rectangular,NEEDS_REVIEW,D (Metal Code),Source workbook does not specify rectangular duct material; VJR Metal Code D was left blank.,TAKEOFF-DUCTS,32
+275,rectangular,NEEDS_REVIEW,D (Metal Code),Source workbook does not specify rectangular duct material; VJR Metal Code D was left blank.,TAKEOFF-DUCTS,33
+286,rectangular,NEEDS_REVIEW,D (Metal Code),Source workbook does not specify rectangular duct material; VJR Metal Code D was left blank.,TAKEOFF-DUCTS,34
+267,rectangular,NEEDS_REVIEW,D (Metal Code),Source workbook does not specify rectangular duct material; VJR Metal Code D was left blank.,TAKEOFF-DUCTS,38
+271,rectangular,NEEDS_REVIEW,D (Metal Code),Source workbook does not specify rectangular duct material; VJR Metal Code D was left blank.,TAKEOFF-DUCTS,39
+270,rectangular,NEEDS_REVIEW,ACCESSORIES1,"TAKEOFF-DUCTS associates CANEVAS with this rectangular group, but the detailed accessory sheet does not corroborate the same system and size; code was left blank for review.",TAKEOFF-DUCTS,40
+270,rectangular,NEEDS_REVIEW,D (Metal Code),Source workbook does not specify rectangular duct material; VJR Metal Code D was left blank.,TAKEOFF-DUCTS,40
+253,rectangular,NEEDS_REVIEW,D (Metal Code),Source workbook does not specify rectangular duct material; VJR Metal Code D was left blank.,TAKEOFF-DUCTS,41
+276,rectangular,NEEDS_REVIEW,ACCESSORIES1,"TAKEOFF-DUCTS associates CANEVAS with this rectangular group, but the detailed accessory sheet does not corroborate the same system and size; code was left blank for review.",TAKEOFF-DUCTS,42
+276,rectangular,NEEDS_REVIEW,D (Metal Code),Source workbook does not specify rectangular duct material; VJR Metal Code D was left blank.,TAKEOFF-DUCTS,42
+252,rectangular,NEEDS_REVIEW,D (Metal Code),Source workbook does not specify rectangular duct material; VJR Metal Code D was left blank.,TAKEOFF-DUCTS,43
+273,rectangular,NEEDS_REVIEW,D (Metal Code),Source workbook does not specify rectangular duct material; VJR Metal Code D was left blank.,TAKEOFF-DUCTS,44
+269,rectangular,NEEDS_REVIEW,D (Metal Code),Source workbook does not specify rectangular duct material; VJR Metal Code D was left blank.,TAKEOFF-DUCTS,45
+281,rectangular,NEEDS_REVIEW,D (Metal Code),Source workbook does not specify rectangular duct material; VJR Metal Code D was left blank.,TAKEOFF-DUCTS,46
+266,rectangular,NEEDS_REVIEW,D (Metal Code),Source workbook does not specify rectangular duct material; VJR Metal Code D was left blank.,TAKEOFF-DUCTS,47
+268,rectangular,NEEDS_REVIEW,D (Metal Code),Source workbook does not specify rectangular duct material; VJR Metal Code D was left blank.,TAKEOFF-DUCTS,48
+228,rectangular,NEEDS_REVIEW,D (Metal Code),Source workbook does not specify rectangular duct material; VJR Metal Code D was left blank.,TAKEOFF-DUCTS,50
+227,rectangular,NEEDS_REVIEW,D (Metal Code),Source workbook does not specify rectangular duct material; VJR Metal Code D was left blank.,TAKEOFF-DUCTS,51
+226,rectangular,NEEDS_REVIEW,D (Metal Code),Source workbook does not specify rectangular duct material; VJR Metal Code D was left blank.,TAKEOFF-DUCTS,52
+225,rectangular,NEEDS_REVIEW,D (Metal Code),Source workbook does not specify rectangular duct material; VJR Metal Code D was left blank.,TAKEOFF-DUCTS,53
+292,rectangular,NEEDS_REVIEW,D (Metal Code),Source workbook does not specify rectangular duct material; VJR Metal Code D was left blank.,TAKEOFF-DUCTS,56
+291,rectangular,NEEDS_REVIEW,D (Metal Code),Source workbook does not specify rectangular duct material; VJR Metal Code D was left blank.,TAKEOFF-DUCTS,57
+295,rectangular,NEEDS_REVIEW,D (Metal Code),Source workbook does not specify rectangular duct material; VJR Metal Code D was left blank.,TAKEOFF-DUCTS,59
+294,rectangular,NEEDS_REVIEW,ACCESSORIES1,"TAKEOFF-DUCTS associates CANEVAS with this rectangular group, but the detailed accessory sheet does not corroborate the same system and size; code was left blank for review.",TAKEOFF-DUCTS,60
+294,rectangular,NEEDS_REVIEW,D (Metal Code),Source workbook does not specify rectangular duct material; VJR Metal Code D was left blank.,TAKEOFF-DUCTS,60
+263,rectangular,NEEDS_REVIEW,D (Metal Code),Source workbook does not specify rectangular duct material; VJR Metal Code D was left blank.,TAKEOFF-DUCTS,61
+118,rectangular,NEEDS_REVIEW,D (Metal Code),Source workbook does not specify rectangular duct material; VJR Metal Code D was left blank.,TAKEOFF-DUCTS,62
+232,rectangular,NEEDS_REVIEW,D (Metal Code),Source workbook does not specify rectangular duct material; VJR Metal Code D was left blank.,TAKEOFF-DUCTS,63
+233,rectangular,NEEDS_REVIEW,D (Metal Code),Source workbook does not specify rectangular duct material; VJR Metal Code D was left blank.,TAKEOFF-DUCTS,64
+250,rectangular,NEEDS_REVIEW,D (Metal Code),Source workbook does not specify rectangular duct material; VJR Metal Code D was left blank.,TAKEOFF-DUCTS,65
+234,rectangular,NEEDS_REVIEW,D (Metal Code),Source workbook does not specify rectangular duct material; VJR Metal Code D was left blank.,TAKEOFF-DUCTS,66
