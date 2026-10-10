@@ -1,0 +1,118 @@
+{
+  "ROND ET FLEX | MATCH": 30,
+  "ROND ET FLEX | QUANTITY DIFFERENCE": 9,
+  "SPIRALE | MATCH": 43,
+  "SPIRALE | QUANTITY DIFFERENCE": 10,
+  "TAKE OFF | EXTRA IN GENERATED": 436,
+  "TAKE OFF | MAPPING DIFFERENCE": 9,
+  "TAKE OFF | MATCH": 88,
+  "TAKE OFF | MISSING IN GENERATED": 499,
+  "TAKE OFF | UNRESOLVED / INSUFFICIENT SOURCE EVIDENCE": 123,
+  "manual_takeoff_riser_rows": 123,
+  "generated_takeoff_riser_rows": 0,
+  "manual_takeoff_riser_nonzero_lengths": 122,
+  "manual_takeoff_riser_examples": [
+    {
+      "row": 33,
+      "size": [
+        600,
+        250
+      ],
+      "length": 13.71,
+      "type": "MP",
+      "install": "RI"
+    },
+    {
+      "row": 40,
+      "size": [
+        1200,
+        650
+      ],
+      "length": 4.57,
+      "type": "MP",
+      "install": "RI"
+    },
+    {
+      "row": 41,
+      "size": [
+        150,
+        150
+      ],
+      "length": 9.144,
+      "type": "MP",
+      "install": "RI"
+    },
+    {
+      "row": 43,
+      "size": [
+        3000,
+        2000
+      ],
+      "length": 4.57,
+      "type": "MP",
+      "install": "RI"
+    },
+    {
+      "row": 44,
+      "size": [
+        400,
+        200
+      ],
+      "length": 9.144,
+      "type": "MP",
+      "install": "RI"
+    },
+    {
+      "row": 55,
+      "size": [
+        800,
+        300
+      ],
+      "length": 9.144,
+      "type": "MP",
+      "install": "RI"
+    },
+    {
+      "row": 57,
+      "size": [
+        800,
+        600
+      ],
+      "length": 9.144,
+      "type": "MP",
+      "install": "RI"
+    },
+    {
+      "row": 58,
+      "size": [
+        800,
+        400
+      ],
+      "length": 4.57,
+      "type": "MP",
+      "install": "RI"
+    },
+    {
+      "row": 60,
+      "size": [
+        813,
+        254
+      ],
+      "length": 32,
+      "type": "MP",
+      "install": "RI"
+    },
+    {
+      "row": 64,
+      "size": [
+        350,
+        250
+      ],
+      "length": 9.144,
+      "type": "BP",
+      "install": "RI"
+    }
+  ],
+  "manual_spiral_diameters_with_input": 35,
+  "generated_spiral_diameters_with_input": 36
+}

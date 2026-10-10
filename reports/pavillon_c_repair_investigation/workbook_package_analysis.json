@@ -1,0 +1,1035 @@
+{
+  "generated": {
+    "path": "output\\jobs\\TAKEOFF_Plans_Pav._C_-r_vis_add1_8_8bc5caddc1\\TAKEOFF_Plans_Pav._C_-r_vis_add1_8_VJR.xlsx",
+    "size": 962887,
+    "sha256": "a9e2f1209e107f1f6e15a59a005b2f1bddd03268faaa0e498fdc901cca29e921",
+    "zip_member_count": 83,
+    "zip_testzip_bad_member": null,
+    "members": [
+      "[Content_Types].xml",
+      "_rels/.rels",
+      "customXml/_rels/item1.xml.rels",
+      "customXml/_rels/item2.xml.rels",
+      "customXml/_rels/item3.xml.rels",
+      "customXml/_rels/item4.xml.rels",
+      "customXml/item1.xml",
+      "customXml/item2.xml",
+      "customXml/item3.xml",
+      "customXml/item4.xml",
+      "customXml/itemProps1.xml",
+      "customXml/itemProps2.xml",
+      "customXml/itemProps3.xml",
+      "customXml/itemProps4.xml",
+      "docProps/app.xml",
+      "docProps/core.xml",
+      "docProps/custom.xml",
+      "xl/_rels/workbook.xml.rels",
+      "xl/calcChain.xml",
+      "xl/comments1.xml",
+      "xl/drawings/_rels/drawing1.xml.rels",
+      "xl/drawings/_rels/drawing2.xml.rels",
+      "xl/drawings/_rels/drawing3.xml.rels",
+      "xl/drawings/_rels/drawing4.xml.rels",
+      "xl/drawings/drawing1.xml",
+      "xl/drawings/drawing2.xml",
+      "xl/drawings/drawing3.xml",
+      "xl/drawings/drawing4.xml",
+      "xl/drawings/vmlDrawing1.vml",
+      "xl/media/image1.png",
+      "xl/media/image10.png",
+      "xl/media/image2.png",
+      "xl/media/image3.png",
+      "xl/media/image4.png",
+      "xl/media/image5.png",
+      "xl/media/image6.png",
+      "xl/media/image7.png",
+      "xl/media/image8.png",
+      "xl/media/image9.png",
+      "xl/metadata.xml",
+      "xl/persons/person.xml",
+      "xl/printerSettings/printerSettings1.bin",
+      "xl/printerSettings/printerSettings10.bin",
+      "xl/printerSettings/printerSettings11.bin",
+      "xl/printerSettings/printerSettings2.bin",
+      "xl/printerSettings/printerSettings3.bin",
+      "xl/printerSettings/printerSettings4.bin",
+      "xl/printerSettings/printerSettings5.bin",
+      "xl/printerSettings/printerSettings6.bin",
+      "xl/printerSettings/printerSettings7.bin",
+      "xl/printerSettings/printerSettings8.bin",
+      "xl/printerSettings/printerSettings9.bin",
+      "xl/sharedStrings.xml",
+      "xl/styles.xml",
+      "xl/tables/table1.xml",
+      "xl/theme/theme1.xml",
+      "xl/threadedComments/threadedComment1.xml",
+      "xl/workbook.xml",
+      "xl/worksheets/_rels/sheet1.xml.rels",
+      "xl/worksheets/_rels/sheet10.xml.rels",
+      "xl/worksheets/_rels/sheet11.xml.rels",
+      "xl/worksheets/_rels/sheet12.xml.rels",
+      "xl/worksheets/_rels/sheet13.xml.rels",
+      "xl/worksheets/_rels/sheet2.xml.rels",
+      "xl/worksheets/_rels/sheet4.xml.rels",
+      "xl/worksheets/_rels/sheet5.xml.rels",
+      "xl/worksheets/_rels/sheet6.xml.rels",
+      "xl/worksheets/_rels/sheet7.xml.rels",
+      "xl/worksheets/_rels/sheet8.xml.rels",
+      "xl/worksheets/_rels/sheet9.xml.rels",
+      "xl/worksheets/sheet1.xml",
+      "xl/worksheets/sheet10.xml",
+      "xl/worksheets/sheet11.xml",
+      "xl/worksheets/sheet12.xml",
+      "xl/worksheets/sheet13.xml",
+      "xl/worksheets/sheet2.xml",
+      "xl/worksheets/sheet3.xml",
+      "xl/worksheets/sheet4.xml",
+      "xl/worksheets/sheet5.xml",
+      "xl/worksheets/sheet6.xml",
+      "xl/worksheets/sheet7.xml",
+      "xl/worksheets/sheet8.xml",
+      "xl/worksheets/sheet9.xml"
+    ],
+    "xml_parse_problems": [],
+    "mc_ignorable_undeclared_prefixes": [],
+    "relationship_target_problems": [],
+    "part_categories": {
+      "drawings": [
+        "xl/drawings/_rels/drawing1.xml.rels",
+        "xl/drawings/_rels/drawing2.xml.rels",
+        "xl/drawings/_rels/drawing3.xml.rels",
+        "xl/drawings/_rels/drawing4.xml.rels",
+        "xl/drawings/drawing1.xml",
+        "xl/drawings/drawing2.xml",
+        "xl/drawings/drawing3.xml",
+        "xl/drawings/drawing4.xml",
+        "xl/drawings/vmlDrawing1.vml"
+      ],
+      "media": [
+        "xl/media/image1.png",
+        "xl/media/image10.png",
+        "xl/media/image2.png",
+        "xl/media/image3.png",
+        "xl/media/image4.png",
+        "xl/media/image5.png",
+        "xl/media/image6.png",
+        "xl/media/image7.png",
+        "xl/media/image8.png",
+        "xl/media/image9.png"
+      ],
+      "tables": [
+        "xl/tables/table1.xml"
+      ],
+      "comments_vml": [
+        "xl/comments1.xml",
+        "xl/drawings/vmlDrawing1.vml",
+        "xl/threadedComments/threadedComment1.xml"
+      ]
+    },
+    "extension_markers": {
+      "xl/workbook.xml": [
+        "<extLst"
+      ],
+      "xl/worksheets/sheet1.xml": [
+        "<extLst",
+        "x14:dataValidations",
+        "x14:dataValidation",
+        "<dataValidations",
+        "<mergeCells"
+      ],
+      "xl/worksheets/sheet10.xml": [
+        "<mergeCells",
+        "<drawing"
+      ],
+      "xl/worksheets/sheet11.xml": [
+        "<mergeCells",
+        "<drawing"
+      ],
+      "xl/worksheets/sheet12.xml": [
+        "<mergeCells",
+        "<tableParts"
+      ],
+      "xl/worksheets/sheet13.xml": [
+        "<drawing"
+      ],
+      "xl/worksheets/sheet2.xml": [
+        "<mergeCells"
+      ],
+      "xl/worksheets/sheet3.xml": [
+        "<mergeCells"
+      ],
+      "xl/worksheets/sheet4.xml": [
+        "<extLst",
+        "x14:dataValidations",
+        "x14:dataValidation",
+        "<mergeCells",
+        "<drawing"
+      ],
+      "xl/worksheets/sheet5.xml": [
+        "<mergeCells"
+      ],
+      "xl/worksheets/sheet6.xml": [
+        "<mergeCells"
+      ],
+      "xl/worksheets/sheet7.xml": [
+        "<mergeCells"
+      ],
+      "xl/worksheets/sheet8.xml": [
+        "<mergeCells"
+      ],
+      "xl/worksheets/sheet9.xml": [
+        "<mergeCells"
+      ]
+    },
+    "worksheet_features": {
+      "xl/worksheets/sheet1.xml": {
+        "merge_cells": 273,
+        "standard_data_validations": 1,
+        "x14_data_validations": 2,
+        "extension_list_count": 1,
+        "drawing_refs": 0,
+        "table_parts_refs": 0
+      },
+      "xl/worksheets/sheet10.xml": {
+        "merge_cells": 69,
+        "standard_data_validations": 0,
+        "x14_data_validations": 0,
+        "extension_list_count": 0,
+        "drawing_refs": 1,
+        "table_parts_refs": 0
+      },
+      "xl/worksheets/sheet11.xml": {
+        "merge_cells": 54,
+        "standard_data_validations": 0,
+        "x14_data_validations": 0,
+        "extension_list_count": 0,
+        "drawing_refs": 1,
+        "table_parts_refs": 0
+      },
+      "xl/worksheets/sheet12.xml": {
+        "merge_cells": 1,
+        "standard_data_validations": 0,
+        "x14_data_validations": 0,
+        "extension_list_count": 0,
+        "drawing_refs": 0,
+        "table_parts_refs": 1
+      },
+      "xl/worksheets/sheet13.xml": {
+        "merge_cells": 0,
+        "standard_data_validations": 0,
+        "x14_data_validations": 0,
+        "extension_list_count": 0,
+        "drawing_refs": 1,
+        "table_parts_refs": 0
+      },
+      "xl/worksheets/sheet2.xml": {
+        "merge_cells": 74,
+        "standard_data_validations": 0,
+        "x14_data_validations": 0,
+        "extension_list_count": 0,
+        "drawing_refs": 0,
+        "table_parts_refs": 0
+      },
+      "xl/worksheets/sheet3.xml": {
+        "merge_cells": 1,
+        "standard_data_validations": 0,
+        "x14_data_validations": 0,
+        "extension_list_count": 0,
+        "drawing_refs": 0,
+        "table_parts_refs": 0
+      },
+      "xl/worksheets/sheet4.xml": {
+        "merge_cells": 7,
+        "standard_data_validations": 0,
+        "x14_data_validations": 1,
+        "extension_list_count": 1,
+        "drawing_refs": 1,
+        "table_parts_refs": 0
+      },
+      "xl/worksheets/sheet5.xml": {
+        "merge_cells": 51,
+        "standard_data_validations": 0,
+        "x14_data_validations": 0,
+        "extension_list_count": 0,
+        "drawing_refs": 0,
+        "table_parts_refs": 0
+      },
+      "xl/worksheets/sheet6.xml": {
+        "merge_cells": 66,
+        "standard_data_validations": 0,
+        "x14_data_validations": 0,
+        "extension_list_count": 0,
+        "drawing_refs": 0,
+        "table_parts_refs": 0
+      },
+      "xl/worksheets/sheet7.xml": {
+        "merge_cells": 76,
+        "standard_data_validations": 0,
+        "x14_data_validations": 0,
+        "extension_list_count": 0,
+        "drawing_refs": 0,
+        "table_parts_refs": 0
+      },
+      "xl/worksheets/sheet8.xml": {
+        "merge_cells": 538,
+        "standard_data_validations": 0,
+        "x14_data_validations": 0,
+        "extension_list_count": 0,
+        "drawing_refs": 0,
+        "table_parts_refs": 0
+      },
+      "xl/worksheets/sheet9.xml": {
+        "merge_cells": 174,
+        "standard_data_validations": 0,
+        "x14_data_validations": 0,
+        "extension_list_count": 0,
+        "drawing_refs": 0,
+        "table_parts_refs": 0
+      }
+    },
+    "package_content_types": "<?xml version=\"1.0\" encoding=\"UTF-8\" standalone=\"yes\"?>\r\n<Types xmlns=\"http://schemas.openxmlformats.org/package/2006/content-types\"><Default Extension=\"bin\" ContentType=\"application/vnd.openxmlformats-officedocument.spreadsheetml.printerSettings\"/><Default Extension=\"png\" ContentType=\"image/png\"/><Default Extension=\"rels\" ContentType=\"application/vnd.openxmlformats-package.relationships+xml\"/><Default Extension=\"xml\" ContentType=\"application/xml\"/><Default Extension=\"vml\" ContentType=\"application/vnd.openxmlformats-officedocument.vmlDrawing\"/><Override PartName=\"/xl/workbook.xml\" ContentType=\"application/vnd.openxmlformats-officedocument.spreadsheetml.sheet.main+xml\"/><Override PartName=\"/xl/worksheets/sheet1.xml\" ContentType=\"application/vnd.openxmlformats-officedocument.spreadsheetml.worksheet+xml\"/><Override PartName=\"/xl/worksheets/sheet2.xml\" ContentType=\"application/vnd.openxmlformats-officedocument.spreadsheetml.worksheet+xml\"/><Override PartName=\"/xl/worksheets/sheet3.xml\" ContentType=\"application/vnd.openxmlformats-officedocument.spreadsheetml.worksheet+xml\"/><Override PartName=\"/xl/worksheets/sheet4.xml\" ContentType=\"application/vnd.openxmlformats-officedocument.spreadsheetml.worksheet+xml\"/><Override PartName=\"/xl/worksheets/sheet5.xml\" ContentType=\"application/vnd.openxmlformats-officedocument.spreadsheetml.worksheet+xml\"/><Override PartName=\"/xl/worksheets/sheet6.xml\" ContentType=\"application/vnd.openxmlformats-officedocument.spreadsheetml.worksheet+xml\"/><Override PartName=\"/xl/worksheets/sheet7.xml\" ContentType=\"application/vnd.openxmlformats-officedocument.spreadsheetml.worksheet+xml\"/><Override PartName=\"/xl/worksheets/sheet8.xml\" ContentType=\"application/vnd.openxmlformats-officedocument.spreadsheetml.worksheet+xml\"/><Override PartName=\"/xl/worksheets/sheet9.xml\" ContentType=\"application/vnd.openxmlformats-officedocument.spreadsheetml.worksheet+xml\"/><Override PartName=\"/xl/worksheets/sheet10.xml\" ContentType=\"application/vnd.openxmlformats-officedocument.spreadsheetml.worksheet+xml\"/><Override PartName=\"/xl/worksheets/sheet11.xml\" ContentType=\"application/vnd.openxmlformats-officedocument.spreadsheetml.worksheet+xml\"/><Override PartName=\"/xl/worksheets/sheet12.xml\" ContentType=\"application/vnd.openxmlformats-officedocument.spreadsheetml.worksheet+xml\"/><Override PartName=\"/xl/worksheets/sheet13.xml\" ContentType=\"application/vnd.openxmlformats-officedocument.spreadsheetml.worksheet+xml\"/><Override PartName=\"/xl/theme/theme1.xml\" ContentType=\"application/vnd.openxmlformats-officedocument.theme+xml\"/><Override PartName=\"/xl/styles.xml\" ContentType=\"application/vnd.openxmlformats-officedocument.spreadsheetml.styles+xml\"/><Override PartName=\"/xl/sharedStrings.xml\" ContentType=\"application/vnd.openxmlformats-officedocument.spreadsheetml.sharedStrings+xml\"/><Override PartName=\"/xl/metadata.xml\" ContentType=\"application/vnd.openxmlformats-officedocument.spreadsheetml.sheetMetadata+xml\"/><Override PartName=\"/xl/drawings/drawing1.xml\" ContentType=\"application/vnd.openxmlformats-officedocument.drawing+xml\"/><Override PartName=\"/xl/drawings/drawing2.xml\" ContentType=\"application/vnd.openxmlformats-officedocument.drawing+xml\"/><Override PartName=\"/xl/drawings/drawing3.xml\" ContentType=\"application/vnd.openxmlformats-officedocument.drawing+xml\"/><Override PartName=\"/xl/tables/table1.xml\" ContentType=\"application/vnd.openxmlformats-officedocument.spreadsheetml.table+xml\"/><Override PartName=\"/xl/comments1.xml\" ContentType=\"application/vnd.openxmlformats-officedocument.spreadsheetml.comments+xml\"/><Override PartName=\"/xl/drawings/drawing4.xml\" ContentType=\"application/vnd.openxmlformats-officedocument.drawing+xml\"/><Override PartName=\"/xl/calcChain.xml\" ContentType=\"application/vnd.openxmlformats-officedocument.spreadsheetml.calcChain+xml\"/><Override PartName=\"/customXml/itemProps1.xml\" ContentType=\"application/vnd.openxmlformats-officedocument.customXmlProperties+xml\"/><Override PartName=\"/customXml/itemProps2.xml\" ContentType=\"application/vnd.openxmlformats-officedocument.customXmlProperties+xml\"/><Override PartName=\"/customXml/itemProps3.xml\" ContentType=\"application/vnd.openxmlformats-officedocument.customXmlProperties+xml\"/><Override PartName=\"/customXml/itemProps4.xml\" ContentType=\"application/vnd.openxmlformats-officedocument.customXmlProperties+xml\"/><Override PartName=\"/docProps/core.xml\" ContentType=\"application/vnd.openxmlformats-package.core-properties+xml\"/><Override PartName=\"/docProps/app.xml\" ContentType=\"application/vnd.openxmlformats-officedocument.extended-properties+xml\"/><Override PartName=\"/docProps/custom.xml\" ContentType=\"application/vnd.openxmlformats-officedocument.custom-properties+xml\"/><Override PartName=\"/xl/persons/person.xml\" ContentType=\"application/vnd.ms-excel.person+xml\"/><Override PartName=\"/xl/threadedComments/threadedComment1.xml\" ContentType=\"application/vnd.ms-excel.threadedcomments+xml\"/></Types>",
+    "openpyxl": {
+      "read_only": {
+        "loaded": true,
+        "sheetnames": [
+          "ESTIM\u00c9",
+          "TAKE OFF",
+          "SPIRALE",
+          "ROND ET FLEX",
+          "COMPARATIF FLEX",
+          "DONN\u00c9ES",
+          "SOMM. T.OFF",
+          "INFOSPROJET",
+          "INFOSDESSIN",
+          "DEMANDE R\u00c9FRI",
+          "DEMANDE R\u00c9FRI (2)",
+          "Automatisation",
+          "Registre modifications"
+        ],
+        "defined_names": [
+          "ESTIMATEUR"
+        ],
+        "warnings": []
+      },
+      "normal_mode": {
+        "loaded": true,
+        "sheetnames": [
+          "ESTIM\u00c9",
+          "TAKE OFF",
+          "SPIRALE",
+          "ROND ET FLEX",
+          "COMPARATIF FLEX",
+          "DONN\u00c9ES",
+          "SOMM. T.OFF",
+          "INFOSPROJET",
+          "INFOSDESSIN",
+          "DEMANDE R\u00c9FRI",
+          "DEMANDE R\u00c9FRI (2)",
+          "Automatisation",
+          "Registre modifications"
+        ],
+        "defined_names": [
+          "ESTIMATEUR"
+        ],
+        "warnings": [
+          "Data Validation extension is not supported and will be removed",
+          "Data Validation extension is not supported and will be removed"
+        ]
+      }
+    }
+  },
+  "downloaded": {
+    "path": "C:\\Users\\91739\\Downloads\\TAKEOFF_Plans_Pav._C_-r_vis_add1_8_VJR.xlsx",
+    "size": 962887,
+    "sha256": "a9e2f1209e107f1f6e15a59a005b2f1bddd03268faaa0e498fdc901cca29e921",
+    "zip_member_count": 83,
+    "zip_testzip_bad_member": null,
+    "members": [
+      "[Content_Types].xml",
+      "_rels/.rels",
+      "customXml/_rels/item1.xml.rels",
+      "customXml/_rels/item2.xml.rels",
+      "customXml/_rels/item3.xml.rels",
+      "customXml/_rels/item4.xml.rels",
+      "customXml/item1.xml",
+      "customXml/item2.xml",
+      "customXml/item3.xml",
+      "customXml/item4.xml",
+      "customXml/itemProps1.xml",
+      "customXml/itemProps2.xml",
+      "customXml/itemProps3.xml",
+      "customXml/itemProps4.xml",
+      "docProps/app.xml",
+      "docProps/core.xml",
+      "docProps/custom.xml",
+      "xl/_rels/workbook.xml.rels",
+      "xl/calcChain.xml",
+      "xl/comments1.xml",
+      "xl/drawings/_rels/drawing1.xml.rels",
+      "xl/drawings/_rels/drawing2.xml.rels",
+      "xl/drawings/_rels/drawing3.xml.rels",
+      "xl/drawings/_rels/drawing4.xml.rels",
+      "xl/drawings/drawing1.xml",
+      "xl/drawings/drawing2.xml",
+      "xl/drawings/drawing3.xml",
+      "xl/drawings/drawing4.xml",
+      "xl/drawings/vmlDrawing1.vml",
+      "xl/media/image1.png",
+      "xl/media/image10.png",
+      "xl/media/image2.png",
+      "xl/media/image3.png",
+      "xl/media/image4.png",
+      "xl/media/image5.png",
+      "xl/media/image6.png",
+      "xl/media/image7.png",
+      "xl/media/image8.png",
+      "xl/media/image9.png",
+      "xl/metadata.xml",
+      "xl/persons/person.xml",
+      "xl/printerSettings/printerSettings1.bin",
+      "xl/printerSettings/printerSettings10.bin",
+      "xl/printerSettings/printerSettings11.bin",
+      "xl/printerSettings/printerSettings2.bin",
+      "xl/printerSettings/printerSettings3.bin",
+      "xl/printerSettings/printerSettings4.bin",
+      "xl/printerSettings/printerSettings5.bin",
+      "xl/printerSettings/printerSettings6.bin",
+      "xl/printerSettings/printerSettings7.bin",
+      "xl/printerSettings/printerSettings8.bin",
+      "xl/printerSettings/printerSettings9.bin",
+      "xl/sharedStrings.xml",
+      "xl/styles.xml",
+      "xl/tables/table1.xml",
+      "xl/theme/theme1.xml",
+      "xl/threadedComments/threadedComment1.xml",
+      "xl/workbook.xml",
+      "xl/worksheets/_rels/sheet1.xml.rels",
+      "xl/worksheets/_rels/sheet10.xml.rels",
+      "xl/worksheets/_rels/sheet11.xml.rels",
+      "xl/worksheets/_rels/sheet12.xml.rels",
+      "xl/worksheets/_rels/sheet13.xml.rels",
+      "xl/worksheets/_rels/sheet2.xml.rels",
+      "xl/worksheets/_rels/sheet4.xml.rels",
+      "xl/worksheets/_rels/sheet5.xml.rels",
+      "xl/worksheets/_rels/sheet6.xml.rels",
+      "xl/worksheets/_rels/sheet7.xml.rels",
+      "xl/worksheets/_rels/sheet8.xml.rels",
+      "xl/worksheets/_rels/sheet9.xml.rels",
+      "xl/worksheets/sheet1.xml",
+      "xl/worksheets/sheet10.xml",
+      "xl/worksheets/sheet11.xml",
+      "xl/worksheets/sheet12.xml",
+      "xl/worksheets/sheet13.xml",
+      "xl/worksheets/sheet2.xml",
+      "xl/worksheets/sheet3.xml",
+      "xl/worksheets/sheet4.xml",
+      "xl/worksheets/sheet5.xml",
+      "xl/worksheets/sheet6.xml",
+      "xl/worksheets/sheet7.xml",
+      "xl/worksheets/sheet8.xml",
+      "xl/worksheets/sheet9.xml"
+    ],
+    "xml_parse_problems": [],
+    "mc_ignorable_undeclared_prefixes": [],
+    "relationship_target_problems": [],
+    "part_categories": {
+      "drawings": [
+        "xl/drawings/_rels/drawing1.xml.rels",
+        "xl/drawings/_rels/drawing2.xml.rels",
+        "xl/drawings/_rels/drawing3.xml.rels",
+        "xl/drawings/_rels/drawing4.xml.rels",
+        "xl/drawings/drawing1.xml",
+        "xl/drawings/drawing2.xml",
+        "xl/drawings/drawing3.xml",
+        "xl/drawings/drawing4.xml",
+        "xl/drawings/vmlDrawing1.vml"
+      ],
+      "media": [
+        "xl/media/image1.png",
+        "xl/media/image10.png",
+        "xl/media/image2.png",
+        "xl/media/image3.png",
+        "xl/media/image4.png",
+        "xl/media/image5.png",
+        "xl/media/image6.png",
+        "xl/media/image7.png",
+        "xl/media/image8.png",
+        "xl/media/image9.png"
+      ],
+      "tables": [
+        "xl/tables/table1.xml"
+      ],
+      "comments_vml": [
+        "xl/comments1.xml",
+        "xl/drawings/vmlDrawing1.vml",
+        "xl/threadedComments/threadedComment1.xml"
+      ]
+    },
+    "extension_markers": {
+      "xl/workbook.xml": [
+        "<extLst"
+      ],
+      "xl/worksheets/sheet1.xml": [
+        "<extLst",
+        "x14:dataValidations",
+        "x14:dataValidation",
+        "<dataValidations",
+        "<mergeCells"
+      ],
+      "xl/worksheets/sheet10.xml": [
+        "<mergeCells",
+        "<drawing"
+      ],
+      "xl/worksheets/sheet11.xml": [
+        "<mergeCells",
+        "<drawing"
+      ],
+      "xl/worksheets/sheet12.xml": [
+        "<mergeCells",
+        "<tableParts"
+      ],
+      "xl/worksheets/sheet13.xml": [
+        "<drawing"
+      ],
+      "xl/worksheets/sheet2.xml": [
+        "<mergeCells"
+      ],
+      "xl/worksheets/sheet3.xml": [
+        "<mergeCells"
+      ],
+      "xl/worksheets/sheet4.xml": [
+        "<extLst",
+        "x14:dataValidations",
+        "x14:dataValidation",
+        "<mergeCells",
+        "<drawing"
+      ],
+      "xl/worksheets/sheet5.xml": [
+        "<mergeCells"
+      ],
+      "xl/worksheets/sheet6.xml": [
+        "<mergeCells"
+      ],
+      "xl/worksheets/sheet7.xml": [
+        "<mergeCells"
+      ],
+      "xl/worksheets/sheet8.xml": [
+        "<mergeCells"
+      ],
+      "xl/worksheets/sheet9.xml": [
+        "<mergeCells"
+      ]
+    },
+    "worksheet_features": {
+      "xl/worksheets/sheet1.xml": {
+        "merge_cells": 273,
+        "standard_data_validations": 1,
+        "x14_data_validations": 2,
+        "extension_list_count": 1,
+        "drawing_refs": 0,
+        "table_parts_refs": 0
+      },
+      "xl/worksheets/sheet10.xml": {
+        "merge_cells": 69,
+        "standard_data_validations": 0,
+        "x14_data_validations": 0,
+        "extension_list_count": 0,
+        "drawing_refs": 1,
+        "table_parts_refs": 0
+      },
+      "xl/worksheets/sheet11.xml": {
+        "merge_cells": 54,
+        "standard_data_validations": 0,
+        "x14_data_validations": 0,
+        "extension_list_count": 0,
+        "drawing_refs": 1,
+        "table_parts_refs": 0
+      },
+      "xl/worksheets/sheet12.xml": {
+        "merge_cells": 1,
+        "standard_data_validations": 0,
+        "x14_data_validations": 0,
+        "extension_list_count": 0,
+        "drawing_refs": 0,
+        "table_parts_refs": 1
+      },
+      "xl/worksheets/sheet13.xml": {
+        "merge_cells": 0,
+        "standard_data_validations": 0,
+        "x14_data_validations": 0,
+        "extension_list_count": 0,
+        "drawing_refs": 1,
+        "table_parts_refs": 0
+      },
+      "xl/worksheets/sheet2.xml": {
+        "merge_cells": 74,
+        "standard_data_validations": 0,
+        "x14_data_validations": 0,
+        "extension_list_count": 0,
+        "drawing_refs": 0,
+        "table_parts_refs": 0
+      },
+      "xl/worksheets/sheet3.xml": {
+        "merge_cells": 1,
+        "standard_data_validations": 0,
+        "x14_data_validations": 0,
+        "extension_list_count": 0,
+        "drawing_refs": 0,
+        "table_parts_refs": 0
+      },
+      "xl/worksheets/sheet4.xml": {
+        "merge_cells": 7,
+        "standard_data_validations": 0,
+        "x14_data_validations": 1,
+        "extension_list_count": 1,
+        "drawing_refs": 1,
+        "table_parts_refs": 0
+      },
+      "xl/worksheets/sheet5.xml": {
+        "merge_cells": 51,
+        "standard_data_validations": 0,
+        "x14_data_validations": 0,
+        "extension_list_count": 0,
+        "drawing_refs": 0,
+        "table_parts_refs": 0
+      },
+      "xl/worksheets/sheet6.xml": {
+        "merge_cells": 66,
+        "standard_data_validations": 0,
+        "x14_data_validations": 0,
+        "extension_list_count": 0,
+        "drawing_refs": 0,
+        "table_parts_refs": 0
+      },
+      "xl/worksheets/sheet7.xml": {
+        "merge_cells": 76,
+        "standard_data_validations": 0,
+        "x14_data_validations": 0,
+        "extension_list_count": 0,
+        "drawing_refs": 0,
+        "table_parts_refs": 0
+      },
+      "xl/worksheets/sheet8.xml": {
+        "merge_cells": 538,
+        "standard_data_validations": 0,
+        "x14_data_validations": 0,
+        "extension_list_count": 0,
+        "drawing_refs": 0,
+        "table_parts_refs": 0
+      },
+      "xl/worksheets/sheet9.xml": {
+        "merge_cells": 174,
+        "standard_data_validations": 0,
+        "x14_data_validations": 0,
+        "extension_list_count": 0,
+        "drawing_refs": 0,
+        "table_parts_refs": 0
+      }
+    },
+    "package_content_types": "<?xml version=\"1.0\" encoding=\"UTF-8\" standalone=\"yes\"?>\r\n<Types xmlns=\"http://schemas.openxmlformats.org/package/2006/content-types\"><Default Extension=\"bin\" ContentType=\"application/vnd.openxmlformats-officedocument.spreadsheetml.printerSettings\"/><Default Extension=\"png\" ContentType=\"image/png\"/><Default Extension=\"rels\" ContentType=\"application/vnd.openxmlformats-package.relationships+xml\"/><Default Extension=\"xml\" ContentType=\"application/xml\"/><Default Extension=\"vml\" ContentType=\"application/vnd.openxmlformats-officedocument.vmlDrawing\"/><Override PartName=\"/xl/workbook.xml\" ContentType=\"application/vnd.openxmlformats-officedocument.spreadsheetml.sheet.main+xml\"/><Override PartName=\"/xl/worksheets/sheet1.xml\" ContentType=\"application/vnd.openxmlformats-officedocument.spreadsheetml.worksheet+xml\"/><Override PartName=\"/xl/worksheets/sheet2.xml\" ContentType=\"application/vnd.openxmlformats-officedocument.spreadsheetml.worksheet+xml\"/><Override PartName=\"/xl/worksheets/sheet3.xml\" ContentType=\"application/vnd.openxmlformats-officedocument.spreadsheetml.worksheet+xml\"/><Override PartName=\"/xl/worksheets/sheet4.xml\" ContentType=\"application/vnd.openxmlformats-officedocument.spreadsheetml.worksheet+xml\"/><Override PartName=\"/xl/worksheets/sheet5.xml\" ContentType=\"application/vnd.openxmlformats-officedocument.spreadsheetml.worksheet+xml\"/><Override PartName=\"/xl/worksheets/sheet6.xml\" ContentType=\"application/vnd.openxmlformats-officedocument.spreadsheetml.worksheet+xml\"/><Override PartName=\"/xl/worksheets/sheet7.xml\" ContentType=\"application/vnd.openxmlformats-officedocument.spreadsheetml.worksheet+xml\"/><Override PartName=\"/xl/worksheets/sheet8.xml\" ContentType=\"application/vnd.openxmlformats-officedocument.spreadsheetml.worksheet+xml\"/><Override PartName=\"/xl/worksheets/sheet9.xml\" ContentType=\"application/vnd.openxmlformats-officedocument.spreadsheetml.worksheet+xml\"/><Override PartName=\"/xl/worksheets/sheet10.xml\" ContentType=\"application/vnd.openxmlformats-officedocument.spreadsheetml.worksheet+xml\"/><Override PartName=\"/xl/worksheets/sheet11.xml\" ContentType=\"application/vnd.openxmlformats-officedocument.spreadsheetml.worksheet+xml\"/><Override PartName=\"/xl/worksheets/sheet12.xml\" ContentType=\"application/vnd.openxmlformats-officedocument.spreadsheetml.worksheet+xml\"/><Override PartName=\"/xl/worksheets/sheet13.xml\" ContentType=\"application/vnd.openxmlformats-officedocument.spreadsheetml.worksheet+xml\"/><Override PartName=\"/xl/theme/theme1.xml\" ContentType=\"application/vnd.openxmlformats-officedocument.theme+xml\"/><Override PartName=\"/xl/styles.xml\" ContentType=\"application/vnd.openxmlformats-officedocument.spreadsheetml.styles+xml\"/><Override PartName=\"/xl/sharedStrings.xml\" ContentType=\"application/vnd.openxmlformats-officedocument.spreadsheetml.sharedStrings+xml\"/><Override PartName=\"/xl/metadata.xml\" ContentType=\"application/vnd.openxmlformats-officedocument.spreadsheetml.sheetMetadata+xml\"/><Override PartName=\"/xl/drawings/drawing1.xml\" ContentType=\"application/vnd.openxmlformats-officedocument.drawing+xml\"/><Override PartName=\"/xl/drawings/drawing2.xml\" ContentType=\"application/vnd.openxmlformats-officedocument.drawing+xml\"/><Override PartName=\"/xl/drawings/drawing3.xml\" ContentType=\"application/vnd.openxmlformats-officedocument.drawing+xml\"/><Override PartName=\"/xl/tables/table1.xml\" ContentType=\"application/vnd.openxmlformats-officedocument.spreadsheetml.table+xml\"/><Override PartName=\"/xl/comments1.xml\" ContentType=\"application/vnd.openxmlformats-officedocument.spreadsheetml.comments+xml\"/><Override PartName=\"/xl/drawings/drawing4.xml\" ContentType=\"application/vnd.openxmlformats-officedocument.drawing+xml\"/><Override PartName=\"/xl/calcChain.xml\" ContentType=\"application/vnd.openxmlformats-officedocument.spreadsheetml.calcChain+xml\"/><Override PartName=\"/customXml/itemProps1.xml\" ContentType=\"application/vnd.openxmlformats-officedocument.customXmlProperties+xml\"/><Override PartName=\"/customXml/itemProps2.xml\" ContentType=\"application/vnd.openxmlformats-officedocument.customXmlProperties+xml\"/><Override PartName=\"/customXml/itemProps3.xml\" ContentType=\"application/vnd.openxmlformats-officedocument.customXmlProperties+xml\"/><Override PartName=\"/customXml/itemProps4.xml\" ContentType=\"application/vnd.openxmlformats-officedocument.customXmlProperties+xml\"/><Override PartName=\"/docProps/core.xml\" ContentType=\"application/vnd.openxmlformats-package.core-properties+xml\"/><Override PartName=\"/docProps/app.xml\" ContentType=\"application/vnd.openxmlformats-officedocument.extended-properties+xml\"/><Override PartName=\"/docProps/custom.xml\" ContentType=\"application/vnd.openxmlformats-officedocument.custom-properties+xml\"/><Override PartName=\"/xl/persons/person.xml\" ContentType=\"application/vnd.ms-excel.person+xml\"/><Override PartName=\"/xl/threadedComments/threadedComment1.xml\" ContentType=\"application/vnd.ms-excel.threadedcomments+xml\"/></Types>",
+    "openpyxl": {
+      "read_only": {
+        "loaded": true,
+        "sheetnames": [
+          "ESTIM\u00c9",
+          "TAKE OFF",
+          "SPIRALE",
+          "ROND ET FLEX",
+          "COMPARATIF FLEX",
+          "DONN\u00c9ES",
+          "SOMM. T.OFF",
+          "INFOSPROJET",
+          "INFOSDESSIN",
+          "DEMANDE R\u00c9FRI",
+          "DEMANDE R\u00c9FRI (2)",
+          "Automatisation",
+          "Registre modifications"
+        ],
+        "defined_names": [
+          "ESTIMATEUR"
+        ],
+        "warnings": []
+      },
+      "normal_mode": {
+        "loaded": true,
+        "sheetnames": [
+          "ESTIM\u00c9",
+          "TAKE OFF",
+          "SPIRALE",
+          "ROND ET FLEX",
+          "COMPARATIF FLEX",
+          "DONN\u00c9ES",
+          "SOMM. T.OFF",
+          "INFOSPROJET",
+          "INFOSDESSIN",
+          "DEMANDE R\u00c9FRI",
+          "DEMANDE R\u00c9FRI (2)",
+          "Automatisation",
+          "Registre modifications"
+        ],
+        "defined_names": [
+          "ESTIMATEUR"
+        ],
+        "warnings": [
+          "Data Validation extension is not supported and will be removed",
+          "Data Validation extension is not supported and will be removed"
+        ]
+      }
+    }
+  },
+  "template": {
+    "path": "source_files\\Ventilation Jean Roy excel.xlsx",
+    "size": 1039276,
+    "sha256": "a6775a49eb639efd3e3d34805ee2091dd5305cbd839a2ceccb8aa1c053cdcea8",
+    "zip_member_count": 83,
+    "zip_testzip_bad_member": null,
+    "members": [
+      "[Content_Types].xml",
+      "_rels/.rels",
+      "customXml/_rels/item1.xml.rels",
+      "customXml/_rels/item2.xml.rels",
+      "customXml/_rels/item3.xml.rels",
+      "customXml/_rels/item4.xml.rels",
+      "customXml/item1.xml",
+      "customXml/item2.xml",
+      "customXml/item3.xml",
+      "customXml/item4.xml",
+      "customXml/itemProps1.xml",
+      "customXml/itemProps2.xml",
+      "customXml/itemProps3.xml",
+      "customXml/itemProps4.xml",
+      "docProps/app.xml",
+      "docProps/core.xml",
+      "docProps/custom.xml",
+      "xl/_rels/workbook.xml.rels",
+      "xl/calcChain.xml",
+      "xl/comments1.xml",
+      "xl/drawings/_rels/drawing1.xml.rels",
+      "xl/drawings/_rels/drawing2.xml.rels",
+      "xl/drawings/_rels/drawing3.xml.rels",
+      "xl/drawings/_rels/drawing4.xml.rels",
+      "xl/drawings/drawing1.xml",
+      "xl/drawings/drawing2.xml",
+      "xl/drawings/drawing3.xml",
+      "xl/drawings/drawing4.xml",
+      "xl/drawings/vmlDrawing1.vml",
+      "xl/media/image1.png",
+      "xl/media/image10.png",
+      "xl/media/image2.png",
+      "xl/media/image3.png",
+      "xl/media/image4.png",
+      "xl/media/image5.png",
+      "xl/media/image6.png",
+      "xl/media/image7.png",
+      "xl/media/image8.png",
+      "xl/media/image9.png",
+      "xl/metadata.xml",
+      "xl/persons/person.xml",
+      "xl/printerSettings/printerSettings1.bin",
+      "xl/printerSettings/printerSettings10.bin",
+      "xl/printerSettings/printerSettings11.bin",
+      "xl/printerSettings/printerSettings2.bin",
+      "xl/printerSettings/printerSettings3.bin",
+      "xl/printerSettings/printerSettings4.bin",
+      "xl/printerSettings/printerSettings5.bin",
+      "xl/printerSettings/printerSettings6.bin",
+      "xl/printerSettings/printerSettings7.bin",
+      "xl/printerSettings/printerSettings8.bin",
+      "xl/printerSettings/printerSettings9.bin",
+      "xl/sharedStrings.xml",
+      "xl/styles.xml",
+      "xl/tables/table1.xml",
+      "xl/theme/theme1.xml",
+      "xl/threadedComments/threadedComment1.xml",
+      "xl/workbook.xml",
+      "xl/worksheets/_rels/sheet1.xml.rels",
+      "xl/worksheets/_rels/sheet10.xml.rels",
+      "xl/worksheets/_rels/sheet11.xml.rels",
+      "xl/worksheets/_rels/sheet12.xml.rels",
+      "xl/worksheets/_rels/sheet13.xml.rels",
+      "xl/worksheets/_rels/sheet2.xml.rels",
+      "xl/worksheets/_rels/sheet4.xml.rels",
+      "xl/worksheets/_rels/sheet5.xml.rels",
+      "xl/worksheets/_rels/sheet6.xml.rels",
+      "xl/worksheets/_rels/sheet7.xml.rels",
+      "xl/worksheets/_rels/sheet8.xml.rels",
+      "xl/worksheets/_rels/sheet9.xml.rels",
+      "xl/worksheets/sheet1.xml",
+      "xl/worksheets/sheet10.xml",
+      "xl/worksheets/sheet11.xml",
+      "xl/worksheets/sheet12.xml",
+      "xl/worksheets/sheet13.xml",
+      "xl/worksheets/sheet2.xml",
+      "xl/worksheets/sheet3.xml",
+      "xl/worksheets/sheet4.xml",
+      "xl/worksheets/sheet5.xml",
+      "xl/worksheets/sheet6.xml",
+      "xl/worksheets/sheet7.xml",
+      "xl/worksheets/sheet8.xml",
+      "xl/worksheets/sheet9.xml"
+    ],
+    "xml_parse_problems": [],
+    "mc_ignorable_undeclared_prefixes": [],
+    "relationship_target_problems": [],
+    "part_categories": {
+      "drawings": [
+        "xl/drawings/_rels/drawing1.xml.rels",
+        "xl/drawings/_rels/drawing2.xml.rels",
+        "xl/drawings/_rels/drawing3.xml.rels",
+        "xl/drawings/_rels/drawing4.xml.rels",
+        "xl/drawings/drawing1.xml",
+        "xl/drawings/drawing2.xml",
+        "xl/drawings/drawing3.xml",
+        "xl/drawings/drawing4.xml",
+        "xl/drawings/vmlDrawing1.vml"
+      ],
+      "media": [
+        "xl/media/image1.png",
+        "xl/media/image10.png",
+        "xl/media/image2.png",
+        "xl/media/image3.png",
+        "xl/media/image4.png",
+        "xl/media/image5.png",
+        "xl/media/image6.png",
+        "xl/media/image7.png",
+        "xl/media/image8.png",
+        "xl/media/image9.png"
+      ],
+      "tables": [
+        "xl/tables/table1.xml"
+      ],
+      "comments_vml": [
+        "xl/comments1.xml",
+        "xl/drawings/vmlDrawing1.vml",
+        "xl/threadedComments/threadedComment1.xml"
+      ]
+    },
+    "extension_markers": {
+      "xl/workbook.xml": [
+        "<extLst"
+      ],
+      "xl/worksheets/sheet1.xml": [
+        "<extLst",
+        "x14:dataValidations",
+        "x14:dataValidation",
+        "<dataValidations",
+        "<mergeCells"
+      ],
+      "xl/worksheets/sheet10.xml": [
+        "<mergeCells",
+        "<drawing"
+      ],
+      "xl/worksheets/sheet11.xml": [
+        "<mergeCells",
+        "<drawing"
+      ],
+      "xl/worksheets/sheet12.xml": [
+        "<mergeCells",
+        "<tableParts"
+      ],
+      "xl/worksheets/sheet13.xml": [
+        "<drawing"
+      ],
+      "xl/worksheets/sheet2.xml": [
+        "<mergeCells"
+      ],
+      "xl/worksheets/sheet3.xml": [
+        "<mergeCells"
+      ],
+      "xl/worksheets/sheet4.xml": [
+        "<extLst",
+        "x14:dataValidations",
+        "x14:dataValidation",
+        "<mergeCells",
+        "<drawing"
+      ],
+      "xl/worksheets/sheet5.xml": [
+        "<mergeCells"
+      ],
+      "xl/worksheets/sheet6.xml": [
+        "<mergeCells"
+      ],
+      "xl/worksheets/sheet7.xml": [
+        "<mergeCells"
+      ],
+      "xl/worksheets/sheet8.xml": [
+        "<mergeCells"
+      ],
+      "xl/worksheets/sheet9.xml": [
+        "<mergeCells"
+      ]
+    },
+    "worksheet_features": {
+      "xl/worksheets/sheet1.xml": {
+        "merge_cells": 273,
+        "standard_data_validations": 1,
+        "x14_data_validations": 2,
+        "extension_list_count": 1,
+        "drawing_refs": 0,
+        "table_parts_refs": 0
+      },
+      "xl/worksheets/sheet10.xml": {
+        "merge_cells": 69,
+        "standard_data_validations": 0,
+        "x14_data_validations": 0,
+        "extension_list_count": 0,
+        "drawing_refs": 1,
+        "table_parts_refs": 0
+      },
+      "xl/worksheets/sheet11.xml": {
+        "merge_cells": 54,
+        "standard_data_validations": 0,
+        "x14_data_validations": 0,
+        "extension_list_count": 0,
+        "drawing_refs": 1,
+        "table_parts_refs": 0
+      },
+      "xl/worksheets/sheet12.xml": {
+        "merge_cells": 1,
+        "standard_data_validations": 0,
+        "x14_data_validations": 0,
+        "extension_list_count": 0,
+        "drawing_refs": 0,
+        "table_parts_refs": 1
+      },
+      "xl/worksheets/sheet13.xml": {
+        "merge_cells": 0,
+        "standard_data_validations": 0,
+        "x14_data_validations": 0,
+        "extension_list_count": 0,
+        "drawing_refs": 1,
+        "table_parts_refs": 0
+      },
+      "xl/worksheets/sheet2.xml": {
+        "merge_cells": 74,
+        "standard_data_validations": 0,
+        "x14_data_validations": 0,
+        "extension_list_count": 0,
+        "drawing_refs": 0,
+        "table_parts_refs": 0
+      },
+      "xl/worksheets/sheet3.xml": {
+        "merge_cells": 1,
+        "standard_data_validations": 0,
+        "x14_data_validations": 0,
+        "extension_list_count": 0,
+        "drawing_refs": 0,
+        "table_parts_refs": 0
+      },
+      "xl/worksheets/sheet4.xml": {
+        "merge_cells": 7,
+        "standard_data_validations": 0,
+        "x14_data_validations": 1,
+        "extension_list_count": 1,
+        "drawing_refs": 1,
+        "table_parts_refs": 0
+      },
+      "xl/worksheets/sheet5.xml": {
+        "merge_cells": 51,
+        "standard_data_validations": 0,
+        "x14_data_validations": 0,
+        "extension_list_count": 0,
+        "drawing_refs": 0,
+        "table_parts_refs": 0
+      },
+      "xl/worksheets/sheet6.xml": {
+        "merge_cells": 66,
+        "standard_data_validations": 0,
+        "x14_data_validations": 0,
+        "extension_list_count": 0,
+        "drawing_refs": 0,
+        "table_parts_refs": 0
+      },
+      "xl/worksheets/sheet7.xml": {
+        "merge_cells": 76,
+        "standard_data_validations": 0,
+        "x14_data_validations": 0,
+        "extension_list_count": 0,
+        "drawing_refs": 0,
+        "table_parts_refs": 0
+      },
+      "xl/worksheets/sheet8.xml": {
+        "merge_cells": 538,
+        "standard_data_validations": 0,
+        "x14_data_validations": 0,
+        "extension_list_count": 0,
+        "drawing_refs": 0,
+        "table_parts_refs": 0
+      },
+      "xl/worksheets/sheet9.xml": {
+        "merge_cells": 174,
+        "standard_data_validations": 0,
+        "x14_data_validations": 0,
+        "extension_list_count": 0,
+        "drawing_refs": 0,
+        "table_parts_refs": 0
+      }
+    },
+    "package_content_types": "<?xml version=\"1.0\" encoding=\"UTF-8\" standalone=\"yes\"?>\r\n<Types xmlns=\"http://schemas.openxmlformats.org/package/2006/content-types\"><Default Extension=\"bin\" ContentType=\"application/vnd.openxmlformats-officedocument.spreadsheetml.printerSettings\"/><Default Extension=\"png\" ContentType=\"image/png\"/><Default Extension=\"rels\" ContentType=\"application/vnd.openxmlformats-package.relationships+xml\"/><Default Extension=\"xml\" ContentType=\"application/xml\"/><Default Extension=\"vml\" ContentType=\"application/vnd.openxmlformats-officedocument.vmlDrawing\"/><Override PartName=\"/xl/workbook.xml\" ContentType=\"application/vnd.openxmlformats-officedocument.spreadsheetml.sheet.main+xml\"/><Override PartName=\"/xl/worksheets/sheet1.xml\" ContentType=\"application/vnd.openxmlformats-officedocument.spreadsheetml.worksheet+xml\"/><Override PartName=\"/xl/worksheets/sheet2.xml\" ContentType=\"application/vnd.openxmlformats-officedocument.spreadsheetml.worksheet+xml\"/><Override PartName=\"/xl/worksheets/sheet3.xml\" ContentType=\"application/vnd.openxmlformats-officedocument.spreadsheetml.worksheet+xml\"/><Override PartName=\"/xl/worksheets/sheet4.xml\" ContentType=\"application/vnd.openxmlformats-officedocument.spreadsheetml.worksheet+xml\"/><Override PartName=\"/xl/worksheets/sheet5.xml\" ContentType=\"application/vnd.openxmlformats-officedocument.spreadsheetml.worksheet+xml\"/><Override PartName=\"/xl/worksheets/sheet6.xml\" ContentType=\"application/vnd.openxmlformats-officedocument.spreadsheetml.worksheet+xml\"/><Override PartName=\"/xl/worksheets/sheet7.xml\" ContentType=\"application/vnd.openxmlformats-officedocument.spreadsheetml.worksheet+xml\"/><Override PartName=\"/xl/worksheets/sheet8.xml\" ContentType=\"application/vnd.openxmlformats-officedocument.spreadsheetml.worksheet+xml\"/><Override PartName=\"/xl/worksheets/sheet9.xml\" ContentType=\"application/vnd.openxmlformats-officedocument.spreadsheetml.worksheet+xml\"/><Override PartName=\"/xl/worksheets/sheet10.xml\" ContentType=\"application/vnd.openxmlformats-officedocument.spreadsheetml.worksheet+xml\"/><Override PartName=\"/xl/worksheets/sheet11.xml\" ContentType=\"application/vnd.openxmlformats-officedocument.spreadsheetml.worksheet+xml\"/><Override PartName=\"/xl/worksheets/sheet12.xml\" ContentType=\"application/vnd.openxmlformats-officedocument.spreadsheetml.worksheet+xml\"/><Override PartName=\"/xl/worksheets/sheet13.xml\" ContentType=\"application/vnd.openxmlformats-officedocument.spreadsheetml.worksheet+xml\"/><Override PartName=\"/xl/theme/theme1.xml\" ContentType=\"application/vnd.openxmlformats-officedocument.theme+xml\"/><Override PartName=\"/xl/styles.xml\" ContentType=\"application/vnd.openxmlformats-officedocument.spreadsheetml.styles+xml\"/><Override PartName=\"/xl/sharedStrings.xml\" ContentType=\"application/vnd.openxmlformats-officedocument.spreadsheetml.sharedStrings+xml\"/><Override PartName=\"/xl/metadata.xml\" ContentType=\"application/vnd.openxmlformats-officedocument.spreadsheetml.sheetMetadata+xml\"/><Override PartName=\"/xl/drawings/drawing1.xml\" ContentType=\"application/vnd.openxmlformats-officedocument.drawing+xml\"/><Override PartName=\"/xl/drawings/drawing2.xml\" ContentType=\"application/vnd.openxmlformats-officedocument.drawing+xml\"/><Override PartName=\"/xl/drawings/drawing3.xml\" ContentType=\"application/vnd.openxmlformats-officedocument.drawing+xml\"/><Override PartName=\"/xl/tables/table1.xml\" ContentType=\"application/vnd.openxmlformats-officedocument.spreadsheetml.table+xml\"/><Override PartName=\"/xl/comments1.xml\" ContentType=\"application/vnd.openxmlformats-officedocument.spreadsheetml.comments+xml\"/><Override PartName=\"/xl/drawings/drawing4.xml\" ContentType=\"application/vnd.openxmlformats-officedocument.drawing+xml\"/><Override PartName=\"/xl/calcChain.xml\" ContentType=\"application/vnd.openxmlformats-officedocument.spreadsheetml.calcChain+xml\"/><Override PartName=\"/customXml/itemProps1.xml\" ContentType=\"application/vnd.openxmlformats-officedocument.customXmlProperties+xml\"/><Override PartName=\"/customXml/itemProps2.xml\" ContentType=\"application/vnd.openxmlformats-officedocument.customXmlProperties+xml\"/><Override PartName=\"/customXml/itemProps3.xml\" ContentType=\"application/vnd.openxmlformats-officedocument.customXmlProperties+xml\"/><Override PartName=\"/customXml/itemProps4.xml\" ContentType=\"application/vnd.openxmlformats-officedocument.customXmlProperties+xml\"/><Override PartName=\"/docProps/core.xml\" ContentType=\"application/vnd.openxmlformats-package.core-properties+xml\"/><Override PartName=\"/docProps/app.xml\" ContentType=\"application/vnd.openxmlformats-officedocument.extended-properties+xml\"/><Override PartName=\"/docProps/custom.xml\" ContentType=\"application/vnd.openxmlformats-officedocument.custom-properties+xml\"/><Override PartName=\"/xl/persons/person.xml\" ContentType=\"application/vnd.ms-excel.person+xml\"/><Override PartName=\"/xl/threadedComments/threadedComment1.xml\" ContentType=\"application/vnd.ms-excel.threadedcomments+xml\"/></Types>",
+    "openpyxl": {
+      "read_only": {
+        "loaded": true,
+        "sheetnames": [
+          "ESTIM\u00c9",
+          "TAKE OFF",
+          "SPIRALE",
+          "ROND ET FLEX",
+          "COMPARATIF FLEX",
+          "DONN\u00c9ES",
+          "SOMM. T.OFF",
+          "INFOSPROJET",
+          "INFOSDESSIN",
+          "DEMANDE R\u00c9FRI",
+          "DEMANDE R\u00c9FRI (2)",
+          "Automatisation",
+          "Registre modifications"
+        ],
+        "defined_names": [
+          "ESTIMATEUR"
+        ],
+        "warnings": []
+      },
+      "normal_mode": {
+        "loaded": true,
+        "sheetnames": [
+          "ESTIM\u00c9",
+          "TAKE OFF",
+          "SPIRALE",
+          "ROND ET FLEX",
+          "COMPARATIF FLEX",
+          "DONN\u00c9ES",
+          "SOMM. T.OFF",
+          "INFOSPROJET",
+          "INFOSDESSIN",
+          "DEMANDE R\u00c9FRI",
+          "DEMANDE R\u00c9FRI (2)",
+          "Automatisation",
+          "Registre modifications"
+        ],
+        "defined_names": [
+          "ESTIMATEUR"
+        ],
+        "warnings": [
+          "Data Validation extension is not supported and will be removed",
+          "Data Validation extension is not supported and will be removed"
+        ]
+      }
+    }
+  },
+  "template_comparison": {
+    "generated_only_parts": [],
+    "template_only_parts": [],
+    "byte_different_parts": [
+      "xl/worksheets/sheet2.xml",
+      "xl/worksheets/sheet3.xml"
+    ]
+  },
+  "generated_downloaded_comparison": {
+    "same_sha256": true,
+    "same_size": true,
+    "same_member_names": true,
+    "byte_different_parts": [],
+    "generated_only_parts": [],
+    "downloaded_only_parts": []
+  }
+}

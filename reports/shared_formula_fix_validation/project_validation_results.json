@@ -1,0 +1,51 @@
+{
+  "projects": [
+    {
+      "project": "Pavillon C",
+      "source": "C:\\Users\\91739\\Desktop\\VJR_Automation\\reports\\shared_formula_fix_validation\\source_inputs\\TAKEOFF_Plans_Pav_C_source.xlsx",
+      "source_sha256": "d137df9a578f65069957a52e7560e845dfe73ff1ec8f6a27222c3bafe5231d18",
+      "output": "C:\\Users\\91739\\Desktop\\VJR_Automation\\output\\shared_formula_fix_validation\\fresh_jobs\\TAKEOFF_Plans_Pav_C_source_9ab183ee73\\TAKEOFF_Plans_Pav_C_source_VJR.xlsx",
+      "output_sha256": "1d604e5d8f5419e9360562fce9f9b1492e2d28610729821b7e8385491aee1dcf",
+      "records_processed": 4809,
+      "cells_written": 5358,
+      "shared_formula_audit": "PASS",
+      "report": "C:\\Users\\91739\\Desktop\\VJR_Automation\\output\\shared_formula_fix_validation\\fresh_jobs\\TAKEOFF_Plans_Pav_C_source_9ab183ee73\\TAKEOFF_Plans_Pav_C_source_validation_report.md"
+    },
+    {
+      "project": "KATIVIK",
+      "source": "C:\\Users\\91739\\Desktop\\VJR_Automation\\source_files\\TAKEOFF_CS KATIVIK - CENTRE D'ÉDUCATION AUX ADULTES.xlsx",
+      "source_sha256": "2e1c810f26945e1c02b288dcd9bd8c54accd5e4be20f6b28c91f6317725a8342",
+      "output": "C:\\Users\\91739\\Desktop\\VJR_Automation\\output\\shared_formula_fix_validation\\fresh_jobs\\TAKEOFF_CS_KATIVIK_-_CENTRE_D_DUCATION_AUX_ADULTES_526b79bc47\\TAKEOFF_CS_KATIVIK_-_CENTRE_D_DUCATION_AUX_ADULTES_VJR.xlsx",
+      "output_sha256": "09e96a6038e979cfb129bd34d3c997a4cf8f26bfaccb44ce2a38309fe52c68f0",
+      "records_processed": 661,
+      "cells_written": 1143,
+      "shared_formula_audit": "PASS",
+      "report": "C:\\Users\\91739\\Desktop\\VJR_Automation\\output\\shared_formula_fix_validation\\fresh_jobs\\TAKEOFF_CS_KATIVIK_-_CENTRE_D_DUCATION_AUX_ADULTES_526b79bc47\\TAKEOFF_CS_KATIVIK_-_CENTRE_D_DUCATION_AUX_ADULTES_validation_report.md"
+    },
+    {
+      "project": "53310TT-B",
+      "source": "C:\\Users\\91739\\Desktop\\VJR_Automation\\test_input\\TAKEOFF_Plans_ingenierie_53310TT-B.xlsx",
+      "source_sha256": "e24c224d5bd5be1bcad01122f9bde2f5073038dbbf2a5369cc355c139bac3baf",
+      "output": "C:\\Users\\91739\\Desktop\\VJR_Automation\\output\\shared_formula_fix_validation\\fresh_jobs\\TAKEOFF_Plans_ingenierie_53310TT-B_f9a503586f\\TAKEOFF_Plans_ingenierie_53310TT-B_VJR.xlsx",
+      "output_sha256": "6e0fd5bdb7e857ccbea9f46b3293e645228f6d6737dbe54e6ca23914cdb6b1c8",
+      "records_processed": 252,
+      "cells_written": 535,
+      "shared_formula_audit": "PASS",
+      "report": "C:\\Users\\91739\\Desktop\\VJR_Automation\\output\\shared_formula_fix_validation\\fresh_jobs\\TAKEOFF_Plans_ingenierie_53310TT-B_f9a503586f\\TAKEOFF_Plans_ingenierie_53310TT-B_validation_report.md"
+    },
+    {
+      "project": "RTL LOT 1 canonical CSV",
+      "source": "C:\\Users\\91739\\Desktop\\VJR_Automation\\output\\rtl_lot1_pressure_fix\\rtl_lot1_normalized.csv",
+      "source_sha256": "f54bf87b1a97df558ba9df6f51877e1b8f7242de448ccee08e889ea7762967c8",
+      "output": "C:\\Users\\91739\\Desktop\\VJR_Automation\\output\\shared_formula_fix_validation\\fresh_jobs\\rtl_lot1_normalized_6d5d3a4fb2\\rtl_lot1_normalized_VJR.xlsx",
+      "output_sha256": "cf888337035a34451b245570ecc2a35085bfe131208faa383cbfdc5c9bac4955",
+      "records_processed": 128,
+      "cells_written": 363,
+      "shared_formula_audit": "PASS",
+      "report": "C:\\Users\\91739\\Desktop\\VJR_Automation\\output\\shared_formula_fix_validation\\fresh_jobs\\rtl_lot1_normalized_6d5d3a4fb2\\rtl_lot1_normalized_validation_report.md"
+    }
+  ],
+  "pavillon_archive": "C:\\Users\\91739\\Downloads\\TAKEOFF_Campus MIL Pavillon C.zip",
+  "pavillon_archive_sha256": "b4b6395c1b0e68b5cd5a78d064761944872745db6ac0d0ec786a1bf9bd6d9cfd",
+  "note": "RTL LOT 1 source workbook was not available in the workspace; its previously normalized canonical CSV was used."
+}

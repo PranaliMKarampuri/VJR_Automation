@@ -1,0 +1,3 @@
+﻿manifest_scope,manual_source_row,estimator_decision,estimator_confirmed_by,estimator_confirmation_date,ppt_rule,target_sheet,target_row,dimension_unit,write_values_json
+TEST_ONLY,2,SAFE_TO_AUTOMATE,TEST FIXTURE ONLY,2026-10-03,rectangular,TAKE OFF,20,mm,"{""A20"":300,""B20"":200,""C20"":2.0,""D20"":26,""E20"":""BP"",""F20"":""HA""}"
+TEST_ONLY,3,SAFE_TO_AUTOMATE,TEST FIXTURE ONLY,2026-10-03,rectangular,TAKE OFF,21,mm,"{""A21"":600,""B21"":300,""C21"":3.0,""D21"":24,""E21"":""MP"",""F21"":""HA"",""G21"":21}"

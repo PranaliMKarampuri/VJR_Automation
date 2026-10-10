@@ -1,0 +1,372 @@
+﻿{
+  "generated": {
+    "path": "output\\jobs\\TAKEOFF_Plans_Pav._C_-r_vis_add1_8_8bc5caddc1\\TAKEOFF_Plans_Pav._C_-r_vis_add1_8_VJR.xlsx",
+    "size": 962887,
+    "sha256": "a9e2f1209e107f1f6e15a59a005b2f1bddd03268faaa0e498fdc901cca29e921",
+    "zip_member_count": 83,
+    "zip_testzip_bad_member": null,
+    "xml_parse_problems": [],
+    "mc_ignorable_undeclared_prefixes": [],
+    "relationship_target_problems": [],
+    "openpyxl": {
+      "read_only": {
+        "loaded": true,
+        "sheetnames": [
+          "ESTIM\u00c9",
+          "TAKE OFF",
+          "SPIRALE",
+          "ROND ET FLEX",
+          "COMPARATIF FLEX",
+          "DONN\u00c9ES",
+          "SOMM. T.OFF",
+          "INFOSPROJET",
+          "INFOSDESSIN",
+          "DEMANDE R\u00c9FRI",
+          "DEMANDE R\u00c9FRI (2)",
+          "Automatisation",
+          "Registre modifications"
+        ],
+        "defined_names": [
+          "ESTIMATEUR"
+        ],
+        "warnings": []
+      },
+      "normal_mode": {
+        "loaded": true,
+        "sheetnames": [
+          "ESTIM\u00c9",
+          "TAKE OFF",
+          "SPIRALE",
+          "ROND ET FLEX",
+          "COMPARATIF FLEX",
+          "DONN\u00c9ES",
+          "SOMM. T.OFF",
+          "INFOSPROJET",
+          "INFOSDESSIN",
+          "DEMANDE R\u00c9FRI",
+          "DEMANDE R\u00c9FRI (2)",
+          "Automatisation",
+          "Registre modifications"
+        ],
+        "defined_names": [
+          "ESTIMATEUR"
+        ],
+        "warnings": [
+          "Data Validation extension is not supported and will be removed",
+          "Data Validation extension is not supported and will be removed"
+        ]
+      }
+    },
+    "extension_markers": {
+      "xl/workbook.xml": [
+        "<extLst"
+      ],
+      "xl/worksheets/sheet1.xml": [
+        "<extLst",
+        "x14:dataValidations",
+        "x14:dataValidation",
+        "<dataValidations",
+        "<mergeCells"
+      ],
+      "xl/worksheets/sheet10.xml": [
+        "<mergeCells",
+        "<drawing"
+      ],
+      "xl/worksheets/sheet11.xml": [
+        "<mergeCells",
+        "<drawing"
+      ],
+      "xl/worksheets/sheet12.xml": [
+        "<mergeCells",
+        "<tableParts"
+      ],
+      "xl/worksheets/sheet13.xml": [
+        "<drawing"
+      ],
+      "xl/worksheets/sheet2.xml": [
+        "<mergeCells"
+      ],
+      "xl/worksheets/sheet3.xml": [
+        "<mergeCells"
+      ],
+      "xl/worksheets/sheet4.xml": [
+        "<extLst",
+        "x14:dataValidations",
+        "x14:dataValidation",
+        "<mergeCells",
+        "<drawing"
+      ],
+      "xl/worksheets/sheet5.xml": [
+        "<mergeCells"
+      ],
+      "xl/worksheets/sheet6.xml": [
+        "<mergeCells"
+      ],
+      "xl/worksheets/sheet7.xml": [
+        "<mergeCells"
+      ],
+      "xl/worksheets/sheet8.xml": [
+        "<mergeCells"
+      ],
+      "xl/worksheets/sheet9.xml": [
+        "<mergeCells"
+      ]
+    },
+    "part_categories": {
+      "drawings": [
+        "xl/drawings/_rels/drawing1.xml.rels",
+        "xl/drawings/_rels/drawing2.xml.rels",
+        "xl/drawings/_rels/drawing3.xml.rels",
+        "xl/drawings/_rels/drawing4.xml.rels",
+        "xl/drawings/drawing1.xml",
+        "xl/drawings/drawing2.xml",
+        "xl/drawings/drawing3.xml",
+        "xl/drawings/drawing4.xml",
+        "xl/drawings/vmlDrawing1.vml"
+      ],
+      "media": [
+        "xl/media/image1.png",
+        "xl/media/image10.png",
+        "xl/media/image2.png",
+        "xl/media/image3.png",
+        "xl/media/image4.png",
+        "xl/media/image5.png",
+        "xl/media/image6.png",
+        "xl/media/image7.png",
+        "xl/media/image8.png",
+        "xl/media/image9.png"
+      ],
+      "tables": [
+        "xl/tables/table1.xml"
+      ],
+      "comments_vml": [
+        "xl/comments1.xml",
+        "xl/drawings/vmlDrawing1.vml",
+        "xl/threadedComments/threadedComment1.xml"
+      ]
+    }
+  },
+  "downloaded": {
+    "path": "C:\\Users\\91739\\Downloads\\TAKEOFF_Plans_Pav._C_-r_vis_add1_8_VJR.xlsx",
+    "size": 962887,
+    "sha256": "a9e2f1209e107f1f6e15a59a005b2f1bddd03268faaa0e498fdc901cca29e921",
+    "zip_member_count": 83,
+    "zip_testzip_bad_member": null,
+    "xml_parse_problems": [],
+    "mc_ignorable_undeclared_prefixes": [],
+    "relationship_target_problems": [],
+    "openpyxl": {
+      "read_only": {
+        "loaded": true,
+        "sheetnames": [
+          "ESTIM\u00c9",
+          "TAKE OFF",
+          "SPIRALE",
+          "ROND ET FLEX",
+          "COMPARATIF FLEX",
+          "DONN\u00c9ES",
+          "SOMM. T.OFF",
+          "INFOSPROJET",
+          "INFOSDESSIN",
+          "DEMANDE R\u00c9FRI",
+          "DEMANDE R\u00c9FRI (2)",
+          "Automatisation",
+          "Registre modifications"
+        ],
+        "defined_names": [
+          "ESTIMATEUR"
+        ],
+        "warnings": []
+      },
+      "normal_mode": {
+        "loaded": true,
+        "sheetnames": [
+          "ESTIM\u00c9",
+          "TAKE OFF",
+          "SPIRALE",
+          "ROND ET FLEX",
+          "COMPARATIF FLEX",
+          "DONN\u00c9ES",
+          "SOMM. T.OFF",
+          "INFOSPROJET",
+          "INFOSDESSIN",
+          "DEMANDE R\u00c9FRI",
+          "DEMANDE R\u00c9FRI (2)",
+          "Automatisation",
+          "Registre modifications"
+        ],
+        "defined_names": [
+          "ESTIMATEUR"
+        ],
+        "warnings": [
+          "Data Validation extension is not supported and will be removed",
+          "Data Validation extension is not supported and will be removed"
+        ]
+      }
+    }
+  },
+  "template": {
+    "path": "source_files\\Ventilation Jean Roy excel.xlsx",
+    "size": 1039276,
+    "sha256": "a6775a49eb639efd3e3d34805ee2091dd5305cbd839a2ceccb8aa1c053cdcea8",
+    "zip_member_count": 83,
+    "zip_testzip_bad_member": null,
+    "xml_parse_problems": [],
+    "mc_ignorable_undeclared_prefixes": [],
+    "relationship_target_problems": [],
+    "openpyxl": {
+      "read_only": {
+        "loaded": true,
+        "sheetnames": [
+          "ESTIM\u00c9",
+          "TAKE OFF",
+          "SPIRALE",
+          "ROND ET FLEX",
+          "COMPARATIF FLEX",
+          "DONN\u00c9ES",
+          "SOMM. T.OFF",
+          "INFOSPROJET",
+          "INFOSDESSIN",
+          "DEMANDE R\u00c9FRI",
+          "DEMANDE R\u00c9FRI (2)",
+          "Automatisation",
+          "Registre modifications"
+        ],
+        "defined_names": [
+          "ESTIMATEUR"
+        ],
+        "warnings": []
+      },
+      "normal_mode": {
+        "loaded": true,
+        "sheetnames": [
+          "ESTIM\u00c9",
+          "TAKE OFF",
+          "SPIRALE",
+          "ROND ET FLEX",
+          "COMPARATIF FLEX",
+          "DONN\u00c9ES",
+          "SOMM. T.OFF",
+          "INFOSPROJET",
+          "INFOSDESSIN",
+          "DEMANDE R\u00c9FRI",
+          "DEMANDE R\u00c9FRI (2)",
+          "Automatisation",
+          "Registre modifications"
+        ],
+        "defined_names": [
+          "ESTIMATEUR"
+        ],
+        "warnings": [
+          "Data Validation extension is not supported and will be removed",
+          "Data Validation extension is not supported and will be removed"
+        ]
+      }
+    },
+    "extension_markers": {
+      "xl/workbook.xml": [
+        "<extLst"
+      ],
+      "xl/worksheets/sheet1.xml": [
+        "<extLst",
+        "x14:dataValidations",
+        "x14:dataValidation",
+        "<dataValidations",
+        "<mergeCells"
+      ],
+      "xl/worksheets/sheet10.xml": [
+        "<mergeCells",
+        "<drawing"
+      ],
+      "xl/worksheets/sheet11.xml": [
+        "<mergeCells",
+        "<drawing"
+      ],
+      "xl/worksheets/sheet12.xml": [
+        "<mergeCells",
+        "<tableParts"
+      ],
+      "xl/worksheets/sheet13.xml": [
+        "<drawing"
+      ],
+      "xl/worksheets/sheet2.xml": [
+        "<mergeCells"
+      ],
+      "xl/worksheets/sheet3.xml": [
+        "<mergeCells"
+      ],
+      "xl/worksheets/sheet4.xml": [
+        "<extLst",
+        "x14:dataValidations",
+        "x14:dataValidation",
+        "<mergeCells",
+        "<drawing"
+      ],
+      "xl/worksheets/sheet5.xml": [
+        "<mergeCells"
+      ],
+      "xl/worksheets/sheet6.xml": [
+        "<mergeCells"
+      ],
+      "xl/worksheets/sheet7.xml": [
+        "<mergeCells"
+      ],
+      "xl/worksheets/sheet8.xml": [
+        "<mergeCells"
+      ],
+      "xl/worksheets/sheet9.xml": [
+        "<mergeCells"
+      ]
+    },
+    "part_categories": {
+      "drawings": [
+        "xl/drawings/_rels/drawing1.xml.rels",
+        "xl/drawings/_rels/drawing2.xml.rels",
+        "xl/drawings/_rels/drawing3.xml.rels",
+        "xl/drawings/_rels/drawing4.xml.rels",
+        "xl/drawings/drawing1.xml",
+        "xl/drawings/drawing2.xml",
+        "xl/drawings/drawing3.xml",
+        "xl/drawings/drawing4.xml",
+        "xl/drawings/vmlDrawing1.vml"
+      ],
+      "media": [
+        "xl/media/image1.png",
+        "xl/media/image10.png",
+        "xl/media/image2.png",
+        "xl/media/image3.png",
+        "xl/media/image4.png",
+        "xl/media/image5.png",
+        "xl/media/image6.png",
+        "xl/media/image7.png",
+        "xl/media/image8.png",
+        "xl/media/image9.png"
+      ],
+      "tables": [
+        "xl/tables/table1.xml"
+      ],
+      "comments_vml": [
+        "xl/comments1.xml",
+        "xl/drawings/vmlDrawing1.vml",
+        "xl/threadedComments/threadedComment1.xml"
+      ]
+    }
+  },
+  "template_comparison": {
+    "generated_only_parts": [],
+    "template_only_parts": [],
+    "byte_different_parts": [
+      "xl/worksheets/sheet2.xml",
+      "xl/worksheets/sheet3.xml"
+    ]
+  },
+  "generated_downloaded_comparison": {
+    "same_sha256": true,
+    "same_size": true,
+    "same_member_names": true,
+    "byte_different_parts": [],
+    "generated_only_parts": [],
+    "downloaded_only_parts": []
+  },
+  "report": "C:\\Users\\91739\\Desktop\\VJR_Automation\\reports\\pavillon_c_repair_investigation\\workbook_package_analysis.json"
+}

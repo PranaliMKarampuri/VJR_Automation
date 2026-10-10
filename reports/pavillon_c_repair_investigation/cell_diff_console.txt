@@ -1,0 +1,1557 @@
+﻿{
+  "xl/worksheets/sheet2.xml": {
+    "template_features": {
+      "root_start": "<worksheet xmlns=\"http://schemas.openxmlformats.org/spreadsheetml/2006/main\" xmlns:r=\"http://schemas.openxmlformats.org/officeDocument/2006/relationships\" xmlns:mc=\"http://schemas.openxmlformats.org/markup-compatibility/2006\" mc:Ignorable=\"x14ac\" xmlns:x14ac=\"http://schemas.microsoft.com/office/spreadsheetml/2009/9/ac\">",
+      "namespace_prefixes": {
+        "r": "http://schemas.openxmlformats.org/officeDocument/2006/relationships",
+        "mc": "http://schemas.openxmlformats.org/markup-compatibility/2006",
+        "x14ac": "http://schemas.microsoft.com/office/spreadsheetml/2009/9/ac"
+      },
+      "mc_ignorable": "x14ac",
+      "worksheet_extensions": null,
+      "merge_count": 74,
+      "standard_data_validation_count": 0,
+      "x14_validation_count": 0,
+      "worksheet_child_order": [
+        "sheetPr",
+        "dimension",
+        "sheetViews",
+        "sheetFormatPr",
+        "cols",
+        "sheetData",
+        "mergeCells",
+        "phoneticPr",
+        "pageMargins",
+        "pageSetup",
+        "headerFooter"
+      ],
+      "worksheet_child_order_valid": true,
+      "rows_with_duplicate_or_unsorted_cell_refs": []
+    },
+    "generated_features": {
+      "root_start": "<worksheet xmlns=\"http://schemas.openxmlformats.org/spreadsheetml/2006/main\" xmlns:mc=\"http://schemas.openxmlformats.org/markup-compatibility/2006\" xmlns:r=\"http://schemas.openxmlformats.org/officeDocument/2006/relationships\" xmlns:x14ac=\"http://schemas.microsoft.com/office/spreadsheetml/2009/9/ac\" mc:Ignorable=\"x14ac\">",
+      "namespace_prefixes": {
+        "mc": "http://schemas.openxmlformats.org/markup-compatibility/2006",
+        "r": "http://schemas.openxmlformats.org/officeDocument/2006/relationships",
+        "x14ac": "http://schemas.microsoft.com/office/spreadsheetml/2009/9/ac"
+      },
+      "mc_ignorable": "x14ac",
+      "worksheet_extensions": null,
+      "merge_count": 74,
+      "standard_data_validation_count": 0,
+      "x14_validation_count": 0,
+      "worksheet_child_order": [
+        "sheetPr",
+        "dimension",
+        "sheetViews",
+        "sheetFormatPr",
+        "cols",
+        "sheetData",
+        "mergeCells",
+        "phoneticPr",
+        "pageMargins",
+        "pageSetup",
+        "headerFooter"
+      ],
+      "worksheet_child_order_valid": true,
+      "rows_with_duplicate_or_unsorted_cell_refs": []
+    },
+    "template_cell_count": 49625,
+    "generated_cell_count": 49625,
+    "changed_cell_count": 3567,
+    "changed_row_count": 534,
+    "root_element_namespace_and_attributes_equal": true,
+    "sample_changed_cells": [
+      {
+        "cell": "A100",
+        "template": {
+          "attrs": {
+            "r": "A100",
+            "s": "29",
+            "t": "str"
+          },
+          "formula": "IF(A99=\"\",\"\",IF(C100=\"\",\"\",A99))",
+          "formula_attrs": {
+            "t": "shared",
+            "ref": "A100:A157",
+            "si": "107"
+          },
+          "value": "",
+          "inline_string": null
+        },
+        "generated": {
+          "attrs": {
+            "r": "A100",
+            "s": "29"
+          },
+          "formula": null,
+          "formula_attrs": null,
+          "value": "1800",
+          "inline_string": null
+        }
+      },
+      {
+        "cell": "A101",
+        "template": {
+          "attrs": {
+            "r": "A101",
+            "s": "29",
+            "t": "str"
+          },
+          "formula": "",
+          "formula_attrs": {
+            "t": "shared",
+            "si": "107"
+          },
+          "value": "",
+          "inline_string": null
+        },
+        "generated": {
+          "attrs": {
+            "r": "A101",
+            "s": "29"
+          },
+          "formula": null,
+          "formula_attrs": null,
+          "value": "250",
+          "inline_string": null
+        }
+      },
+      {
+        "cell": "A102",
+        "template": {
+          "attrs": {
+            "r": "A102",
+            "s": "29",
+            "t": "str"
+          },
+          "formula": "",
+          "formula_attrs": {
+            "t": "shared",
+            "si": "107"
+          },
+          "value": "",
+          "inline_string": null
+        },
+        "generated": {
+          "attrs": {
+            "r": "A102",
+            "s": "29"
+          },
+          "formula": null,
+          "formula_attrs": null,
+          "value": "2850",
+          "inline_string": null
+        }
+      },
+      {
+        "cell": "A103",
+        "template": {
+          "attrs": {
+            "r": "A103",
+            "s": "29",
+            "t": "str"
+          },
+          "formula": "",
+          "formula_attrs": {
+            "t": "shared",
+            "si": "107"
+          },
+          "value": "",
+          "inline_string": null
+        },
+        "generated": {
+          "attrs": {
+            "r": "A103",
+            "s": "29"
+          },
+          "formula": null,
+          "formula_attrs": null,
+          "value": "300",
+          "inline_string": null
+        }
+      },
+      {
+        "cell": "A104",
+        "template": {
+          "attrs": {
+            "r": "A104",
+            "s": "29",
+            "t": "str"
+          },
+          "formula": "",
+          "formula_attrs": {
+            "t": "shared",
+            "si": "107"
+          },
+          "value": "",
+          "inline_string": null
+        },
+        "generated": {
+          "attrs": {
+            "r": "A104",
+            "s": "29"
+          },
+          "formula": null,
+          "formula_attrs": null,
+          "value": "400",
+          "inline_string": null
+        }
+      },
+      {
+        "cell": "A105",
+        "template": {
+          "attrs": {
+            "r": "A105",
+            "s": "29",
+            "t": "str"
+          },
+          "formula": "",
+          "formula_attrs": {
+            "t": "shared",
+            "si": "107"
+          },
+          "value": "",
+          "inline_string": null
+        },
+        "generated": {
+          "attrs": {
+            "r": "A105",
+            "s": "29"
+          },
+          "formula": null,
+          "formula_attrs": null,
+          "value": "700",
+          "inline_string": null
+        }
+      },
+      {
+        "cell": "A106",
+        "template": {
+          "attrs": {
+            "r": "A106",
+            "s": "29",
+            "t": "str"
+          },
+          "formula": "",
+          "formula_attrs": {
+            "t": "shared",
+            "si": "107"
+          },
+          "value": "",
+          "inline_string": null
+        },
+        "generated": {
+          "attrs": {
+            "r": "A106",
+            "s": "29"
+          },
+          "formula": null,
+          "formula_attrs": null,
+          "value": "813",
+          "inline_string": null
+        }
+      },
+      {
+        "cell": "A107",
+        "template": {
+          "attrs": {
+            "r": "A107",
+            "s": "29",
+            "t": "str"
+          },
+          "formula": "",
+          "formula_attrs": {
+            "t": "shared",
+            "si": "107"
+          },
+          "value": "",
+          "inline_string": null
+        },
+        "generated": {
+          "attrs": {
+            "r": "A107",
+            "s": "29"
+          },
+          "formula": null,
+          "formula_attrs": null,
+          "value": "813",
+          "inline_string": null
+        }
+      },
+      {
+        "cell": "A108",
+        "template": {
+          "attrs": {
+            "r": "A108",
+            "s": "29",
+            "t": "str"
+          },
+          "formula": "",
+          "formula_attrs": {
+            "t": "shared",
+            "si": "107"
+          },
+          "value": "",
+          "inline_string": null
+        },
+        "generated": {
+          "attrs": {
+            "r": "A108",
+            "s": "29"
+          },
+          "formula": null,
+          "formula_attrs": null,
+          "value": "1016",
+          "inline_string": null
+        }
+      },
+      {
+        "cell": "A109",
+        "template": {
+          "attrs": {
+            "r": "A109",
+            "s": "29",
+            "t": "str"
+          },
+          "formula": "",
+          "formula_attrs": {
+            "t": "shared",
+            "si": "107"
+          },
+          "value": "",
+          "inline_string": null
+        },
+        "generated": {
+          "attrs": {
+            "r": "A109",
+            "s": "29"
+          },
+          "formula": null,
+          "formula_attrs": null,
+          "value": "1118",
+          "inline_string": null
+        }
+      },
+      {
+        "cell": "A110",
+        "template": {
+          "attrs": {
+            "r": "A110",
+            "s": "29",
+            "t": "str"
+          },
+          "formula": "",
+          "formula_attrs": {
+            "t": "shared",
+            "si": "107"
+          },
+          "value": "",
+          "inline_string": null
+        },
+        "generated": {
+          "attrs": {
+            "r": "A110",
+            "s": "29"
+          },
+          "formula": null,
+          "formula_attrs": null,
+          "value": "1300",
+          "inline_string": null
+        }
+      },
+      {
+        "cell": "A111",
+        "template": {
+          "attrs": {
+            "r": "A111",
+            "s": "29",
+            "t": "str"
+          },
+          "formula": "",
+          "formula_attrs": {
+            "t": "shared",
+            "si": "107"
+          },
+          "value": "",
+          "inline_string": null
+        },
+        "generated": {
+          "attrs": {
+            "r": "A111",
+            "s": "29"
+          },
+          "formula": null,
+          "formula_attrs": null,
+          "value": "2400",
+          "inline_string": null
+        }
+      },
+      {
+        "cell": "A112",
+        "template": {
+          "attrs": {
+            "r": "A112",
+            "s": "29",
+            "t": "str"
+          },
+          "formula": "",
+          "formula_attrs": {
+            "t": "shared",
+            "si": "107"
+          },
+          "value": "",
+          "inline_string": null
+        },
+        "generated": {
+          "attrs": {
+            "r": "A112",
+            "s": "29"
+          },
+          "formula": null,
+          "formula_attrs": null,
+          "value": "3000",
+          "inline_string": null
+        }
+      },
+      {
+        "cell": "A113",
+        "template": {
+          "attrs": {
+            "r": "A113",
+            "s": "29",
+            "t": "str"
+          },
+          "formula": "",
+          "formula_attrs": {
+            "t": "shared",
+            "si": "107"
+          },
+          "value": "",
+          "inline_string": null
+        },
+        "generated": {
+          "attrs": {
+            "r": "A113",
+            "s": "29"
+          },
+          "formula": null,
+          "formula_attrs": null,
+          "value": "300",
+          "inline_string": null
+        }
+      },
+      {
+        "cell": "A114",
+        "template": {
+          "attrs": {
+            "r": "A114",
+            "s": "29",
+            "t": "str"
+          },
+          "formula": "",
+          "formula_attrs": {
+            "t": "shared",
+            "si": "107"
+          },
+          "value": "",
+          "inline_string": null
+        },
+        "generated": {
+          "attrs": {
+            "r": "A114",
+            "s": "29"
+          },
+          "formula": null,
+          "formula_attrs": null,
+          "value": "550",
+          "inline_string": null
+        }
+      },
+      {
+        "cell": "A115",
+        "template": {
+          "attrs": {
+            "r": "A115",
+            "s": "29",
+            "t": "str"
+          },
+          "formula": "",
+          "formula_attrs": {
+            "t": "shared",
+            "si": "107"
+          },
+          "value": "",
+          "inline_string": null
+        },
+        "generated": {
+          "attrs": {
+            "r": "A115",
+            "s": "29"
+          },
+          "formula": null,
+          "formula_attrs": null,
+          "value": "550",
+          "inline_string": null
+        }
+      },
+      {
+        "cell": "A116",
+        "template": {
+          "attrs": {
+            "r": "A116",
+            "s": "29",
+            "t": "str"
+          },
+          "formula": "",
+          "formula_attrs": {
+            "t": "shared",
+            "si": "107"
+          },
+          "value": "",
+          "inline_string": null
+        },
+        "generated": {
+          "attrs": {
+            "r": "A116",
+            "s": "29"
+          },
+          "formula": null,
+          "formula_attrs": null,
+          "value": "600",
+          "inline_string": null
+        }
+      },
+      {
+        "cell": "A117",
+        "template": {
+          "attrs": {
+            "r": "A117",
+            "s": "29",
+            "t": "str"
+          },
+          "formula": "",
+          "formula_attrs": {
+            "t": "shared",
+            "si": "107"
+          },
+          "value": "",
+          "inline_string": null
+        },
+        "generated": {
+          "attrs": {
+            "r": "A117",
+            "s": "29"
+          },
+          "formula": null,
+          "formula_attrs": null,
+          "value": "1050",
+          "inline_string": null
+        }
+      },
+      {
+        "cell": "A118",
+        "template": {
+          "attrs": {
+            "r": "A118",
+            "s": "29",
+            "t": "str"
+          },
+          "formula": "",
+          "formula_attrs": {
+            "t": "shared",
+            "si": "107"
+          },
+          "value": "",
+          "inline_string": null
+        },
+        "generated": {
+          "attrs": {
+            "r": "A118",
+            "s": "29"
+          },
+          "formula": null,
+          "formula_attrs": null,
+          "value": "500",
+          "inline_string": null
+        }
+      },
+      {
+        "cell": "A119",
+        "template": {
+          "attrs": {
+            "r": "A119",
+            "s": "29",
+            "t": "str"
+          },
+          "formula": "",
+          "formula_attrs": {
+            "t": "shared",
+            "si": "107"
+          },
+          "value": "",
+          "inline_string": null
+        },
+        "generated": {
+          "attrs": {
+            "r": "A119",
+            "s": "29"
+          },
+          "formula": null,
+          "formula_attrs": null,
+          "value": "550",
+          "inline_string": null
+        }
+      },
+      {
+        "cell": "A120",
+        "template": {
+          "attrs": {
+            "r": "A120",
+            "s": "29",
+            "t": "str"
+          },
+          "formula": "",
+          "formula_attrs": {
+            "t": "shared",
+            "si": "107"
+          },
+          "value": "",
+          "inline_string": null
+        },
+        "generated": {
+          "attrs": {
+            "r": "A120",
+            "s": "29"
+          },
+          "formula": null,
+          "formula_attrs": null,
+          "value": "600",
+          "inline_string": null
+        }
+      },
+      {
+        "cell": "A121",
+        "template": {
+          "attrs": {
+            "r": "A121",
+            "s": "29",
+            "t": "str"
+          },
+          "formula": "",
+          "formula_attrs": {
+            "t": "shared",
+            "si": "107"
+          },
+          "value": "",
+          "inline_string": null
+        },
+        "generated": {
+          "attrs": {
+            "r": "A121",
+            "s": "29"
+          },
+          "formula": null,
+          "formula_attrs": null,
+          "value": "800",
+          "inline_string": null
+        }
+      },
+      {
+        "cell": "A122",
+        "template": {
+          "attrs": {
+            "r": "A122",
+            "s": "29",
+            "t": "str"
+          },
+          "formula": "",
+          "formula_attrs": {
+            "t": "shared",
+            "si": "107"
+          },
+          "value": "",
+          "inline_string": null
+        },
+        "generated": {
+          "attrs": {
+            "r": "A122",
+            "s": "29"
+          },
+          "formula": null,
+          "formula_attrs": null,
+          "value": "800",
+          "inline_string": null
+        }
+      },
+      {
+        "cell": "A123",
+        "template": {
+          "attrs": {
+            "r": "A123",
+            "s": "29",
+            "t": "str"
+          },
+          "formula": "",
+          "formula_attrs": {
+            "t": "shared",
+            "si": "107"
+          },
+          "value": "",
+          "inline_string": null
+        },
+        "generated": {
+          "attrs": {
+            "r": "A123",
+            "s": "29"
+          },
+          "formula": null,
+          "formula_attrs": null,
+          "value": "850",
+          "inline_string": null
+        }
+      },
+      {
+        "cell": "A124",
+        "template": {
+          "attrs": {
+            "r": "A124",
+            "s": "29",
+            "t": "str"
+          },
+          "formula": "",
+          "formula_attrs": {
+            "t": "shared",
+            "si": "107"
+          },
+          "value": "",
+          "inline_string": null
+        },
+        "generated": {
+          "attrs": {
+            "r": "A124",
+            "s": "29"
+          },
+          "formula": null,
+          "formula_attrs": null,
+          "value": "300",
+          "inline_string": null
+        }
+      },
+      {
+        "cell": "A125",
+        "template": {
+          "attrs": {
+            "r": "A125",
+            "s": "29",
+            "t": "str"
+          },
+          "formula": "",
+          "formula_attrs": {
+            "t": "shared",
+            "si": "107"
+          },
+          "value": "",
+          "inline_string": null
+        },
+        "generated": {
+          "attrs": {
+            "r": "A125",
+            "s": "29"
+          },
+          "formula": null,
+          "formula_attrs": null,
+          "value": "400",
+          "inline_string": null
+        }
+      },
+      {
+        "cell": "A126",
+        "template": {
+          "attrs": {
+            "r": "A126",
+            "s": "29",
+            "t": "str"
+          },
+          "formula": "",
+          "formula_attrs": {
+            "t": "shared",
+            "si": "107"
+          },
+          "value": "",
+          "inline_string": null
+        },
+        "generated": {
+          "attrs": {
+            "r": "A126",
+            "s": "29"
+          },
+          "formula": null,
+          "formula_attrs": null,
+          "value": "5200",
+          "inline_string": null
+        }
+      },
+      {
+        "cell": "A127",
+        "template": {
+          "attrs": {
+            "r": "A127",
+            "s": "29",
+            "t": "str"
+          },
+          "formula": "",
+          "formula_attrs": {
+            "t": "shared",
+            "si": "107"
+          },
+          "value": "",
+          "inline_string": null
+        },
+        "generated": {
+          "attrs": {
+            "r": "A127",
+            "s": "29"
+          },
+          "formula": null,
+          "formula_attrs": null,
+          "value": "1200",
+          "inline_string": null
+        }
+      },
+      {
+        "cell": "A128",
+        "template": {
+          "attrs": {
+            "r": "A128",
+            "s": "29",
+            "t": "str"
+          },
+          "formula": "",
+          "formula_attrs": {
+            "t": "shared",
+            "si": "107"
+          },
+          "value": "",
+          "inline_string": null
+        },
+        "generated": {
+          "attrs": {
+            "r": "A128",
+            "s": "29"
+          },
+          "formula": null,
+          "formula_attrs": null,
+          "value": "1350",
+          "inline_string": null
+        }
+      },
+      {
+        "cell": "A129",
+        "template": {
+          "attrs": {
+            "r": "A129",
+            "s": "29",
+            "t": "str"
+          },
+          "formula": "",
+          "formula_attrs": {
+            "t": "shared",
+            "si": "107"
+          },
+          "value": "",
+          "inline_string": null
+        },
+        "generated": {
+          "attrs": {
+            "r": "A129",
+            "s": "29"
+          },
+          "formula": null,
+          "formula_attrs": null,
+          "value": "1800",
+          "inline_string": null
+        }
+      }
+    ],
+    "changed_cells_file": "C:\\Users\\91739\\Desktop\\VJR_Automation\\reports\\pavillon_c_repair_investigation\\cell_xml_diff.json"
+  },
+  "xl/worksheets/sheet3.xml": {
+    "template_features": {
+      "root_start": "<worksheet xmlns=\"http://schemas.openxmlformats.org/spreadsheetml/2006/main\" xmlns:r=\"http://schemas.openxmlformats.org/officeDocument/2006/relationships\" xmlns:mc=\"http://schemas.openxmlformats.org/markup-compatibility/2006\" mc:Ignorable=\"x14ac\" xmlns:x14ac=\"http://schemas.microsoft.com/office/spreadsheetml/2009/9/ac\">",
+      "namespace_prefixes": {
+        "r": "http://schemas.openxmlformats.org/officeDocument/2006/relationships",
+        "mc": "http://schemas.openxmlformats.org/markup-compatibility/2006",
+        "x14ac": "http://schemas.microsoft.com/office/spreadsheetml/2009/9/ac"
+      },
+      "mc_ignorable": "x14ac",
+      "worksheet_extensions": null,
+      "merge_count": 1,
+      "standard_data_validation_count": 0,
+      "x14_validation_count": 0,
+      "worksheet_child_order": [
+        "dimension",
+        "sheetViews",
+        "sheetFormatPr",
+        "cols",
+        "sheetData",
+        "mergeCells",
+        "pageMargins"
+      ],
+      "worksheet_child_order_valid": true,
+      "rows_with_duplicate_or_unsorted_cell_refs": []
+    },
+    "generated_features": {
+      "root_start": "<worksheet xmlns=\"http://schemas.openxmlformats.org/spreadsheetml/2006/main\" xmlns:mc=\"http://schemas.openxmlformats.org/markup-compatibility/2006\" xmlns:x14ac=\"http://schemas.microsoft.com/office/spreadsheetml/2009/9/ac\" mc:Ignorable=\"x14ac\">",
+      "namespace_prefixes": {
+        "mc": "http://schemas.openxmlformats.org/markup-compatibility/2006",
+        "x14ac": "http://schemas.microsoft.com/office/spreadsheetml/2009/9/ac"
+      },
+      "mc_ignorable": "x14ac",
+      "worksheet_extensions": null,
+      "merge_count": 1,
+      "standard_data_validation_count": 0,
+      "x14_validation_count": 0,
+      "worksheet_child_order": [
+        "dimension",
+        "sheetViews",
+        "sheetFormatPr",
+        "cols",
+        "sheetData",
+        "mergeCells",
+        "pageMargins"
+      ],
+      "worksheet_child_order_valid": true,
+      "rows_with_duplicate_or_unsorted_cell_refs": []
+    },
+    "template_cell_count": 1954,
+    "generated_cell_count": 1954,
+    "changed_cell_count": 27,
+    "changed_row_count": 9,
+    "root_element_namespace_and_attributes_equal": false,
+    "sample_changed_cells": [
+      {
+        "cell": "B12",
+        "template": {
+          "attrs": {
+            "r": "B12",
+            "s": "116"
+          },
+          "formula": null,
+          "formula_attrs": null,
+          "value": null,
+          "inline_string": null
+        },
+        "generated": {
+          "attrs": {
+            "r": "B12",
+            "s": "116"
+          },
+          "formula": null,
+          "formula_attrs": null,
+          "value": "30.1",
+          "inline_string": null
+        }
+      },
+      {
+        "cell": "B13",
+        "template": {
+          "attrs": {
+            "r": "B13",
+            "s": "116"
+          },
+          "formula": null,
+          "formula_attrs": null,
+          "value": null,
+          "inline_string": null
+        },
+        "generated": {
+          "attrs": {
+            "r": "B13",
+            "s": "116"
+          },
+          "formula": null,
+          "formula_attrs": null,
+          "value": "3.3",
+          "inline_string": null
+        }
+      },
+      {
+        "cell": "B14",
+        "template": {
+          "attrs": {
+            "r": "B14",
+            "s": "116"
+          },
+          "formula": null,
+          "formula_attrs": null,
+          "value": null,
+          "inline_string": null
+        },
+        "generated": {
+          "attrs": {
+            "r": "B14",
+            "s": "116"
+          },
+          "formula": null,
+          "formula_attrs": null,
+          "value": "2147.2",
+          "inline_string": null
+        }
+      },
+      {
+        "cell": "B16",
+        "template": {
+          "attrs": {
+            "r": "B16",
+            "s": "116"
+          },
+          "formula": null,
+          "formula_attrs": null,
+          "value": null,
+          "inline_string": null
+        },
+        "generated": {
+          "attrs": {
+            "r": "B16",
+            "s": "116"
+          },
+          "formula": null,
+          "formula_attrs": null,
+          "value": "1476.6",
+          "inline_string": null
+        }
+      },
+      {
+        "cell": "B18",
+        "template": {
+          "attrs": {
+            "r": "B18",
+            "s": "116"
+          },
+          "formula": null,
+          "formula_attrs": null,
+          "value": null,
+          "inline_string": null
+        },
+        "generated": {
+          "attrs": {
+            "r": "B18",
+            "s": "116"
+          },
+          "formula": null,
+          "formula_attrs": null,
+          "value": "969.8",
+          "inline_string": null
+        }
+      },
+      {
+        "cell": "B20",
+        "template": {
+          "attrs": {
+            "r": "B20",
+            "s": "116"
+          },
+          "formula": null,
+          "formula_attrs": null,
+          "value": null,
+          "inline_string": null
+        },
+        "generated": {
+          "attrs": {
+            "r": "B20",
+            "s": "116"
+          },
+          "formula": null,
+          "formula_attrs": null,
+          "value": "792.1",
+          "inline_string": null
+        }
+      },
+      {
+        "cell": "B22",
+        "template": {
+          "attrs": {
+            "r": "B22",
+            "s": "116"
+          },
+          "formula": null,
+          "formula_attrs": null,
+          "value": null,
+          "inline_string": null
+        },
+        "generated": {
+          "attrs": {
+            "r": "B22",
+            "s": "116"
+          },
+          "formula": null,
+          "formula_attrs": null,
+          "value": "293.1",
+          "inline_string": null
+        }
+      },
+      {
+        "cell": "B23",
+        "template": {
+          "attrs": {
+            "r": "B23",
+            "s": "116"
+          },
+          "formula": null,
+          "formula_attrs": null,
+          "value": null,
+          "inline_string": null
+        },
+        "generated": {
+          "attrs": {
+            "r": "B23",
+            "s": "116"
+          },
+          "formula": null,
+          "formula_attrs": null,
+          "value": "22.7",
+          "inline_string": null
+        }
+      },
+      {
+        "cell": "B51",
+        "template": {
+          "attrs": {
+            "r": "B51",
+            "s": "121"
+          },
+          "formula": null,
+          "formula_attrs": null,
+          "value": null,
+          "inline_string": null
+        },
+        "generated": {
+          "attrs": {
+            "r": "B51",
+            "s": "121"
+          },
+          "formula": null,
+          "formula_attrs": null,
+          "value": "47.3",
+          "inline_string": null
+        }
+      },
+      {
+        "cell": "C12",
+        "template": {
+          "attrs": {
+            "r": "C12",
+            "s": "116"
+          },
+          "formula": null,
+          "formula_attrs": null,
+          "value": null,
+          "inline_string": null
+        },
+        "generated": {
+          "attrs": {
+            "r": "C12",
+            "s": "116"
+          },
+          "formula": null,
+          "formula_attrs": null,
+          "value": "3.0",
+          "inline_string": null
+        }
+      },
+      {
+        "cell": "C13",
+        "template": {
+          "attrs": {
+            "r": "C13",
+            "s": "116"
+          },
+          "formula": null,
+          "formula_attrs": null,
+          "value": null,
+          "inline_string": null
+        },
+        "generated": {
+          "attrs": {
+            "r": "C13",
+            "s": "116"
+          },
+          "formula": null,
+          "formula_attrs": null,
+          "value": "1.0",
+          "inline_string": null
+        }
+      },
+      {
+        "cell": "C14",
+        "template": {
+          "attrs": {
+            "r": "C14",
+            "s": "116"
+          },
+          "formula": null,
+          "formula_attrs": null,
+          "value": null,
+          "inline_string": null
+        },
+        "generated": {
+          "attrs": {
+            "r": "C14",
+            "s": "116"
+          },
+          "formula": null,
+          "formula_attrs": null,
+          "value": "325.0",
+          "inline_string": null
+        }
+      },
+      {
+        "cell": "C16",
+        "template": {
+          "attrs": {
+            "r": "C16",
+            "s": "116"
+          },
+          "formula": null,
+          "formula_attrs": null,
+          "value": null,
+          "inline_string": null
+        },
+        "generated": {
+          "attrs": {
+            "r": "C16",
+            "s": "116"
+          },
+          "formula": null,
+          "formula_attrs": null,
+          "value": "164.0",
+          "inline_string": null
+        }
+      },
+      {
+        "cell": "C18",
+        "template": {
+          "attrs": {
+            "r": "C18",
+            "s": "116"
+          },
+          "formula": null,
+          "formula_attrs": null,
+          "value": null,
+          "inline_string": null
+        },
+        "generated": {
+          "attrs": {
+            "r": "C18",
+            "s": "116"
+          },
+          "formula": null,
+          "formula_attrs": null,
+          "value": "114.0",
+          "inline_string": null
+        }
+      },
+      {
+        "cell": "C20",
+        "template": {
+          "attrs": {
+            "r": "C20",
+            "s": "116"
+          },
+          "formula": null,
+          "formula_attrs": null,
+          "value": null,
+          "inline_string": null
+        },
+        "generated": {
+          "attrs": {
+            "r": "C20",
+            "s": "116"
+          },
+          "formula": null,
+          "formula_attrs": null,
+          "value": "49.0",
+          "inline_string": null
+        }
+      },
+      {
+        "cell": "C22",
+        "template": {
+          "attrs": {
+            "r": "C22",
+            "s": "116"
+          },
+          "formula": null,
+          "formula_attrs": null,
+          "value": null,
+          "inline_string": null
+        },
+        "generated": {
+          "attrs": {
+            "r": "C22",
+            "s": "116"
+          },
+          "formula": null,
+          "formula_attrs": null,
+          "value": "33.0",
+          "inline_string": null
+        }
+      },
+      {
+        "cell": "C23",
+        "template": {
+          "attrs": {
+            "r": "C23",
+            "s": "116"
+          },
+          "formula": null,
+          "formula_attrs": null,
+          "value": null,
+          "inline_string": null
+        },
+        "generated": {
+          "attrs": {
+            "r": "C23",
+            "s": "116"
+          },
+          "formula": null,
+          "formula_attrs": null,
+          "value": "5.0",
+          "inline_string": null
+        }
+      },
+      {
+        "cell": "D12",
+        "template": {
+          "attrs": {
+            "r": "D12",
+            "s": "116"
+          },
+          "formula": null,
+          "formula_attrs": null,
+          "value": null,
+          "inline_string": null
+        },
+        "generated": {
+          "attrs": {
+            "r": "D12",
+            "s": "116"
+          },
+          "formula": null,
+          "formula_attrs": null,
+          "value": "2.0",
+          "inline_string": null
+        }
+      },
+      {
+        "cell": "D13",
+        "template": {
+          "attrs": {
+            "r": "D13",
+            "s": "116"
+          },
+          "formula": null,
+          "formula_attrs": null,
+          "value": null,
+          "inline_string": null
+        },
+        "generated": {
+          "attrs": {
+            "r": "D13",
+            "s": "116"
+          },
+          "formula": null,
+          "formula_attrs": null,
+          "value": "1.0",
+          "inline_string": null
+        }
+      },
+      {
+        "cell": "D14",
+        "template": {
+          "attrs": {
+            "r": "D14",
+            "s": "116"
+          },
+          "formula": null,
+          "formula_attrs": null,
+          "value": null,
+          "inline_string": null
+        },
+        "generated": {
+          "attrs": {
+            "r": "D14",
+            "s": "116"
+          },
+          "formula": null,
+          "formula_attrs": null,
+          "value": "91.0",
+          "inline_string": null
+        }
+      },
+      {
+        "cell": "D16",
+        "template": {
+          "attrs": {
+            "r": "D16",
+            "s": "116"
+          },
+          "formula": null,
+          "formula_attrs": null,
+          "value": null,
+          "inline_string": null
+        },
+        "generated": {
+          "attrs": {
+            "r": "D16",
+            "s": "116"
+          },
+          "formula": null,
+          "formula_attrs": null,
+          "value": "46.0",
+          "inline_string": null
+        }
+      },
+      {
+        "cell": "D18",
+        "template": {
+          "attrs": {
+            "r": "D18",
+            "s": "116"
+          },
+          "formula": null,
+          "formula_attrs": null,
+          "value": null,
+          "inline_string": null
+        },
+        "generated": {
+          "attrs": {
+            "r": "D18",
+            "s": "116"
+          },
+          "formula": null,
+          "formula_attrs": null,
+          "value": "43.0",
+          "inline_string": null
+        }
+      },
+      {
+        "cell": "D20",
+        "template": {
+          "attrs": {
+            "r": "D20",
+            "s": "116"
+          },
+          "formula": null,
+          "formula_attrs": null,
+          "value": null,
+          "inline_string": null
+        },
+        "generated": {
+          "attrs": {
+            "r": "D20",
+            "s": "116"
+          },
+          "formula": null,
+          "formula_attrs": null,
+          "value": "23.0",
+          "inline_string": null
+        }
+      },
+      {
+        "cell": "D22",
+        "template": {
+          "attrs": {
+            "r": "D22",
+            "s": "116"
+          },
+          "formula": null,
+          "formula_attrs": null,
+          "value": null,
+          "inline_string": null
+        },
+        "generated": {
+          "attrs": {
+            "r": "D22",
+            "s": "116"
+          },
+          "formula": null,
+          "formula_attrs": null,
+          "value": "9.0",
+          "inline_string": null
+        }
+      },
+      {
+        "cell": "M16",
+        "template": {
+          "attrs": {
+            "r": "M16",
+            "s": "116"
+          },
+          "formula": null,
+          "formula_attrs": null,
+          "value": null,
+          "inline_string": null
+        },
+        "generated": {
+          "attrs": {
+            "r": "M16",
+            "s": "116"
+          },
+          "formula": null,
+          "formula_attrs": null,
+          "value": "29",
+          "inline_string": null
+        }
+      },
+      {
+        "cell": "M18",
+        "template": {
+          "attrs": {
+            "r": "M18",
+            "s": "116"
+          },
+          "formula": null,
+          "formula_attrs": null,
+          "value": null,
+          "inline_string": null
+        },
+        "generated": {
+          "attrs": {
+            "r": "M18",
+            "s": "116"
+          },
+          "formula": null,
+          "formula_attrs": null,
+          "value": "15",
+          "inline_string": null
+        }
+      },
+      {
+        "cell": "M20",
+        "template": {
+          "attrs": {
+            "r": "M20",
+            "s": "116"
+          },
+          "formula": null,
+          "formula_attrs": null,
+          "value": null,
+          "inline_string": null
+        },
+        "generated": {
+          "attrs": {
+            "r": "M20",
+            "s": "116"
+          },
+          "formula": null,
+          "formula_attrs": null,
+          "value": "18",
+          "inline_string": null
+        }
+      }
+    ],
+    "changed_cells_file": "C:\\Users\\91739\\Desktop\\VJR_Automation\\reports\\pavillon_c_repair_investigation\\cell_xml_diff.json"
+  }
+}
